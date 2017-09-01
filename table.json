@@ -1,0 +1,5467 @@
+{
+"tableList" :[
+{
+    "name":"Abbreviate",
+    "acronym":"ABRV",
+    "des":""
+},
+{
+    "name":"Abbreviation",
+    "acronym":"ABRV",
+    "des":""
+},
+{
+    "name":"Academic",
+    "acronym":"ACAD",
+    "des":""
+},
+{
+    "name":"Accept",
+    "acronym":"ACPT",
+    "des":""
+},
+{
+    "name":"Acceptance",
+    "acronym":"ACPT",
+    "des":""
+},
+{
+    "name":"Accepted",
+    "acronym":"ACPT",
+    "des":""
+},
+{
+    "name":"Access",
+    "acronym":"ACCS",
+    "des":""
+},
+{
+    "name":"Accident",
+    "acronym":"ACDNT",
+    "des":""
+},
+{
+    "name":"Accomplish",
+    "acronym":"ACMP",
+    "des":""
+},
+{
+    "name":"Accomplishment",
+    "acronym":"ACMP",
+    "des":""
+},
+{
+    "name":"Accomplishments",
+    "acronym":"ACMP",
+    "des":""
+},
+{
+    "name":"Account*",
+    "acronym":"ACCT*",
+    "des":""
+},
+{
+    "name":"Accounting*",
+    "acronym":"ACCTG*",
+    "des":""
+},
+{
+    "name":"Accounts Payable",
+    "acronym":"AP",
+    "des":""
+},
+{
+    "name":"Advanced Placement",
+    "acronym":"AP",
+    "des":""
+},
+{
+    "name":"Accounts Receivable",
+    "acronym":"AR",
+    "des":""
+},
+{
+    "name":"Accredited",
+    "acronym":"ACRD",
+    "des":""
+},
+{
+    "name":"Accrual",
+    "acronym":"ACRL",
+    "des":""
+},
+{
+    "name":"Accumulated*",
+    "acronym":"ACCUM*",
+    "des":""
+},
+{
+    "name":"Accumulation",
+    "acronym":"ACUM",
+    "des":""
+},
+{
+    "name":"Accumulative",
+    "acronym":"ACUM",
+    "des":""
+},
+{
+    "name":"Achieve",
+    "acronym":"ACHV",
+    "des":""
+},
+{
+    "name":"Achievement",
+    "acronym":"ACHV",
+    "des":""
+},
+{
+    "name":"Acquisition*",
+    "acronym":"ACQ*",
+    "des":""
+},
+{
+    "name":"Act",
+    "acronym":"ACT",
+    "des":""
+},
+{
+    "name":"Active",
+    "acronym":"ACT",
+    "des":""
+},
+{
+    "name":"Activity",
+    "acronym":"ACT",
+    "des":""
+},
+{
+    "name":"American College Test",
+    "acronym":"ACT",
+    "des":""
+},
+{
+    "name":"Action*",
+    "acronym":"ACTN*",
+    "des":""
+},
+{
+    "name":"Actual",
+    "acronym":"ACTL",
+    "des":""
+},
+{
+    "name":"Add",
+    "acronym":"ADD",
+    "des":""
+},
+{
+    "name":"Added",
+    "acronym":"ADD",
+    "des":""
+},
+{
+    "name":"Additional*",
+    "acronym":"ADDL*",
+    "des":""
+},
+{
+    "name":"Address*",
+    "acronym":"ADDR*",
+    "des":"Narrative data which describes a person, place or thing's location "
+},
+{
+    "name":"Ad hoc",
+    "acronym":"ADHC",
+    "des":""
+},
+{
+    "name":"Adjudicate",
+    "acronym":"ADJD",
+    "des":""
+},
+{
+    "name":"Adjudicated",
+    "acronym":"ADJD",
+    "des":""
+},
+{
+    "name":"Adjudication",
+    "acronym":"ADJD",
+    "des":""
+},
+{
+    "name":"Adjusted Gross Income",
+    "acronym":"AGI",
+    "des":""
+},
+{
+    "name":"Adjustment*",
+    "acronym":"ADJ*",
+    "des":""
+},
+{
+    "name":"Administered",
+    "acronym":"ADM",
+    "des":""
+},
+{
+    "name":"Administrated",
+    "acronym":"ADM",
+    "des":""
+},
+{
+    "name":"Administration",
+    "acronym":"ADM",
+    "des":""
+},
+{
+    "name":"Admissible",
+    "acronym":"ADMS",
+    "des":""
+},
+{
+    "name":"Admission",
+    "acronym":"ADMS",
+    "des":""
+},
+{
+    "name":"Admittance",
+    "acronym":"ADMT",
+    "des":""
+},
+{
+    "name":"Admitted",
+    "acronym":"ADMT",
+    "des":""
+},
+{
+    "name":"Advanced Placement",
+    "acronym":"AP",
+    "des":""
+},
+{
+    "name":"Accounts Payable",
+    "acronym":"AP",
+    "des":""
+},
+{
+    "name":"Advice",
+    "acronym":"ADVC",
+    "des":""
+},
+{
+    "name":"Affiliation",
+    "acronym":"AFFL",
+    "des":""
+},
+{
+    "name":"After",
+    "acronym":"AFT",
+    "des":""
+},
+{
+    "name":"Age",
+    "acronym":"AGE",
+    "des":""
+},
+{
+    "name":"Agency",
+    "acronym":"AGCY",
+    "des":""
+},
+{
+    "name":"Agent",
+    "acronym":"AGNT",
+    "des":""
+},
+{
+    "name":"Aid",
+    "acronym":"AID",
+    "des":""
+},
+{
+    "name":"Alien",
+    "acronym":"ALN",
+    "des":""
+},
+{
+    "name":"All",
+    "acronym":"ALL",
+    "des":""
+},
+{
+    "name":"Allocate",
+    "acronym":"ALLOC*",
+    "des":""
+},
+{
+    "name":"Allocation*",
+    "acronym":"ALLOC*",
+    "des":""
+},
+{
+    "name":"Alpha",
+    "acronym":"ALPH",
+    "des":""
+},
+{
+    "name":"Alter",
+    "acronym":"ALT",
+    "des":""
+},
+{
+    "name":"Alternate",
+    "acronym":"ALT",
+    "des":""
+},
+{
+    "name":"Alumni",
+    "acronym":"ALMN",
+    "des":""
+},
+{
+    "name":"Alumnus",
+    "acronym":"ALMN",
+    "des":""
+},
+{
+    "name":"AM",
+    "acronym":"AM",
+    "des":"'AnteMeridiem' (morning) "
+},
+{
+    "name":"American College Test",
+    "acronym":"ACT",
+    "des":""
+},
+{
+    "name":"Act",
+    "acronym":"ACT",
+    "des":""
+},
+{
+    "name":"Active",
+    "acronym":"ACT",
+    "des":""
+},
+{
+    "name":"Activity",
+    "acronym":"ACT",
+    "des":""
+},
+{
+    "name":"Amount*",
+    "acronym":"AMT*",
+    "des":"Monetary value(s) "
+},
+{
+    "name":"Analysis",
+    "acronym":"ANLS",
+    "des":""
+},
+{
+    "name":"Annual*",
+    "acronym":"ANNL*",
+    "des":""
+},
+{
+    "name":"Anonymous",
+    "acronym":"ANON",
+    "des":""
+},
+{
+    "name":"Answer",
+    "acronym":"ANS",
+    "des":""
+},
+{
+    "name":"Apartment",
+    "acronym":"APT",
+    "des":""
+},
+{
+    "name":"Appeal",
+    "acronym":"APEL",
+    "des":""
+},
+{
+    "name":"Appealed",
+    "acronym":"APEL",
+    "des":""
+},
+{
+    "name":"Applicant*",
+    "acronym":"APP*",
+    "des":""
+},
+{
+    "name":"Application*",
+    "acronym":"APPL*",
+    "des":""
+},
+{
+    "name":"Appointment",
+    "acronym":"APPT",
+    "des":""
+},
+{
+    "name":"Approval",
+    "acronym":"APRV",
+    "des":""
+},
+{
+    "name":"Approve",
+    "acronym":"APRV",
+    "des":""
+},
+{
+    "name":"Area",
+    "acronym":"AREA",
+    "des":""
+},
+{
+    "name":"Array",
+    "acronym":"ARAY",
+    "des":""
+},
+{
+    "name":"Arrears",
+    "acronym":"ARRS",
+    "des":""
+},
+{
+    "name":"Ascending",
+    "acronym":"ASC",
+    "des":""
+},
+{
+    "name":"Assign",
+    "acronym":"ASGN",
+    "des":""
+},
+{
+    "name":"Assigned",
+    "acronym":"ASGN",
+    "des":""
+},
+{
+    "name":"Assignment",
+    "acronym":"ASGN",
+    "des":""
+},
+{
+    "name":"Association",
+    "acronym":"ASSC",
+    "des":""
+},
+{
+    "name":"Assumption",
+    "acronym":"ASMP",
+    "des":""
+},
+{
+    "name":"Athlete",
+    "acronym":"ATHL",
+    "des":""
+},
+{
+    "name":"Athletic",
+    "acronym":"ATHL",
+    "des":""
+},
+{
+    "name":"Attach",
+    "acronym":"ATCH",
+    "des":""
+},
+{
+    "name":"Attempt",
+    "acronym":"ATMPT",
+    "des":""
+},
+{
+    "name":"Attend",
+    "acronym":"ATND",
+    "des":""
+},
+{
+    "name":"Attendance",
+    "acronym":"ATND",
+    "des":""
+},
+{
+    "name":"Attention",
+    "acronym":"ATTN",
+    "des":""
+},
+{
+    "name":"Attribute",
+    "acronym":"ATTR",
+    "des":""
+},
+{
+    "name":"Audit",
+    "acronym":"ADT",
+    "des":""
+},
+{
+    "name":"Audited",
+    "acronym":"ADT",
+    "des":""
+},
+{
+    "name":"Authority",
+    "acronym":"AUTH",
+    "des":""
+},
+{
+    "name":"Authorize",
+    "acronym":"AUTH",
+    "des":""
+},
+{
+    "name":"Auxiliary",
+    "acronym":"AUX",
+    "des":""
+},
+{
+    "name":"Availability",
+    "acronym":"AVL",
+    "des":""
+},
+{
+    "name":"Available",
+    "acronym":"AVL",
+    "des":""
+},
+{
+    "name":"Average",
+    "acronym":"AVG",
+    "des":"The mean of two or more numbers "
+},
+{
+    "name":"Average Cumulative Grade",
+    "acronym":"ACG",
+    "des":""
+},
+{
+    "name":"Award",
+    "acronym":"AWRD",
+    "des":""
+},
+{
+    "name":"Awarded",
+    "acronym":"AWRD",
+    "des":""
+},
+{
+    "name":"Balance*",
+    "acronym":"BAL*",
+    "des":"The net value (balance) of an account "
+},
+{
+    "name":"Bank",
+    "acronym":"BNK",
+    "des":""
+},
+{
+    "name":"Bargain",
+    "acronym":"BARG",
+    "des":""
+},
+{
+    "name":"Base",
+    "acronym":"BAS",
+    "des":""
+},
+{
+    "name":"Basic",
+    "acronym":"BAS",
+    "des":""
+},
+{
+    "name":"Batch",
+    "acronym":"BTCH",
+    "des":""
+},
+{
+    "name":"Before",
+    "acronym":"BEF",
+    "des":""
+},
+{
+    "name":"Begin",
+    "acronym":"BEGN",
+    "des":""
+},
+{
+    "name":"Beginning",
+    "acronym":"BEGN",
+    "des":""
+},
+{
+    "name":"Beginning of Term",
+    "acronym":"BOT",
+    "des":""
+},
+{
+    "name":"Benefits",
+    "acronym":"BEN",
+    "des":""
+},
+{
+    "name":"Bid",
+    "acronym":"BID",
+    "des":""
+},
+{
+    "name":"Bill",
+    "acronym":"BILL",
+    "des":""
+},
+{
+    "name":"Billing",
+    "acronym":"BILL",
+    "des":""
+},
+{
+    "name":"Billing and Receivables System",
+    "acronym":"BRS",
+    "des":""
+},
+{
+    "name":"Birth",
+    "acronym":"BRTH",
+    "des":""
+},
+{
+    "name":"Board",
+    "acronym":"BRD",
+    "des":""
+},
+{
+    "name":"Break",
+    "acronym":"BRK",
+    "des":""
+},
+{
+    "name":"Budget",
+    "acronym":"BUD",
+    "des":""
+},
+{
+    "name":"Budgetable",
+    "acronym":"BUD",
+    "des":""
+},
+{
+    "name":"Budget Balance Account",
+    "acronym":"BBA",
+    "des":""
+},
+{
+    "name":"Build",
+    "acronym":"BLD",
+    "des":""
+},
+{
+    "name":"Building",
+    "acronym":"BLD",
+    "des":""
+},
+{
+    "name":"Business",
+    "acronym":"BUS",
+    "des":""
+},
+{
+    "name":"Business Unit*",
+    "acronym":"BU*",
+    "des":""
+},
+{
+    "name":"Buy",
+    "acronym":"BUY",
+    "des":""
+},
+{
+    "name":"Buyer",
+    "acronym":"BUY",
+    "des":""
+},
+{
+    "name":"Calculate",
+    "acronym":"CALC*",
+    "des":""
+},
+{
+    "name":"Calculated",
+    "acronym":"CALC*",
+    "des":""
+},
+{
+    "name":"Calculation*",
+    "acronym":"CALC*",
+    "des":""
+},
+{
+    "name":"Calendar*",
+    "acronym":"CAL*",
+    "des":""
+},
+{
+    "name":"Call",
+    "acronym":"CALL",
+    "des":""
+},
+{
+    "name":"Campaign",
+    "acronym":"CMPN",
+    "des":""
+},
+{
+    "name":"Campus",
+    "acronym":"CMPS",
+    "des":""
+},
+{
+    "name":"Cancel",
+    "acronym":"CAN",
+    "des":""
+},
+{
+    "name":"Canceled",
+    "acronym":"CAN",
+    "des":""
+},
+{
+    "name":"Capacity",
+    "acronym":"CAP",
+    "des":""
+},
+{
+    "name":"Capitalization",
+    "acronym":"CPLZ",
+    "des":""
+},
+{
+    "name":"Card",
+    "acronym":"CRD",
+    "des":""
+},
+{
+    "name":"Career",
+    "acronym":"CAR",
+    "des":""
+},
+{
+    "name":"Carrier",
+    "acronym":"CRIR",
+    "des":""
+},
+{
+    "name":"Cartridge",
+    "acronym":"CART",
+    "des":""
+},
+{
+    "name":"Case",
+    "acronym":"CSE",
+    "des":""
+},
+{
+    "name":"Cash",
+    "acronym":"CSH",
+    "des":""
+},
+{
+    "name":"Catalog",
+    "acronym":"CTLG",
+    "des":""
+},
+{
+    "name":"Category*",
+    "acronym":"CATG*",
+    "des":""
+},
+{
+    "name":"Census",
+    "acronym":"CENS",
+    "des":""
+},
+{
+    "name":"Center",
+    "acronym":"CTR",
+    "des":""
+},
+{
+    "name":"Certificate",
+    "acronym":"CERT",
+    "des":""
+},
+{
+    "name":"Certification",
+    "acronym":"CERT",
+    "des":""
+},
+{
+    "name":"Change",
+    "acronym":"CHG",
+    "des":""
+},
+{
+    "name":"Changed",
+    "acronym":"CHG",
+    "des":""
+},
+{
+    "name":"Chapter",
+    "acronym":"CHAP",
+    "des":""
+},
+{
+    "name":"Charge",
+    "acronym":"CRG",
+    "des":""
+},
+{
+    "name":"Chartfield",
+    "acronym":"CHARTF",
+    "des":""
+},
+{
+    "name":"Check",
+    "acronym":"CHK",
+    "des":""
+},
+{
+    "name":"Checked",
+    "acronym":"CHK",
+    "des":""
+},
+{
+    "name":"Citizen",
+    "acronym":"CTZN",
+    "des":""
+},
+{
+    "name":"Citizenship",
+    "acronym":"CTZN",
+    "des":""
+},
+{
+    "name":"City",
+    "acronym":"CTY",
+    "des":""
+},
+{
+    "name":"Class",
+    "acronym":"CLAS",
+    "des":""
+},
+{
+    "name":"Clear",
+    "acronym":"CLR",
+    "des":""
+},
+{
+    "name":"Cleared",
+    "acronym":"CLR",
+    "des":""
+},
+{
+    "name":"CLEP",
+    "acronym":"CLEP",
+    "des":""
+},
+{
+    "name":"Close",
+    "acronym":"CLO",
+    "des":""
+},
+{
+    "name":"Club",
+    "acronym":"CLB",
+    "des":""
+},
+{
+    "name":"COBRA*",
+    "acronym":"CBR*",
+    "des":""
+},
+{
+    "name":"Code*",
+    "acronym":"CD*",
+    "des":"Data which represents encoded values (translate or code table) "
+},
+{
+    "name":"Collect",
+    "acronym":"CLCT",
+    "des":""
+},
+{
+    "name":"Collection",
+    "acronym":"CLCT",
+    "des":""
+},
+{
+    "name":"College",
+    "acronym":"COLG",
+    "des":""
+},
+{
+    "name":"Column",
+    "acronym":"CLMN",
+    "des":""
+},
+{
+    "name":"Combination",
+    "acronym":"COMB",
+    "des":""
+},
+{
+    "name":"Combine",
+    "acronym":"COMB",
+    "des":""
+},
+{
+    "name":"Command",
+    "acronym":"CMD",
+    "des":""
+},
+{
+    "name":"Comment",
+    "acronym":"CMT",
+    "des":"An explanatory, illustrative or critical note, remark or observation "
+},
+{
+    "name":"Committee",
+    "acronym":"CMMTTEE",
+    "des":""
+},
+{
+    "name":"Company*",
+    "acronym":"CO*",
+    "des":""
+},
+{
+    "name":"Comparative*",
+    "acronym":"COMPA*",
+    "des":""
+},
+{
+    "name":"Competitor",
+    "acronym":"CPTR",
+    "des":""
+},
+{
+    "name":"Complete",
+    "acronym":"CMPL",
+    "des":""
+},
+{
+    "name":"Completion",
+    "acronym":"CMPL",
+    "des":""
+},
+{
+    "name":"Compliance",
+    "acronym":"CMPL",
+    "des":""
+},
+{
+    "name":"Component",
+    "acronym":"CMPT",
+    "des":"When the meaning is 'part', use abbreviation 'PRT'. "
+},
+{
+    "name":"Composite",
+    "acronym":"COMP",
+    "des":""
+},
+{
+    "name":"Compensation",
+    "acronym":"COMP",
+    "des":""
+},
+{
+    "name":"Conditional",
+    "acronym":"COND",
+    "des":""
+},
+{
+    "name":"Confidential",
+    "acronym":"CNFD",
+    "des":""
+},
+{
+    "name":"Confirm",
+    "acronym":"CONF*",
+    "des":""
+},
+{
+    "name":"Confirmation*",
+    "acronym":"CONF*",
+    "des":""
+},
+{
+    "name":"Constant",
+    "acronym":"CNST",
+    "des":"Data which is unchanging or invariable "
+},
+{
+    "name":"Contact",
+    "acronym":"CTCT",
+    "des":""
+},
+{
+    "name":"Continue",
+    "acronym":"CONT",
+    "des":""
+},
+{
+    "name":"Continuing",
+    "acronym":"CONT",
+    "des":""
+},
+{
+    "name":"Continuous",
+    "acronym":"CONT",
+    "des":""
+},
+{
+    "name":"Contract",
+    "acronym":"CNTR",
+    "des":""
+},
+{
+    "name":"Contractor",
+    "acronym":"CNTR",
+    "des":""
+},
+{
+    "name":"Control*",
+    "acronym":"CNTL*",
+    "des":""
+},
+{
+    "name":"Conversation*",
+    "acronym":"CONVR*",
+    "des":""
+},
+{
+    "name":"Conversion*",
+    "acronym":"CNV*",
+    "des":""
+},
+{
+    "name":"Convert*",
+    "acronym":"CNV*",
+    "des":""
+},
+{
+    "name":"Converted",
+    "acronym":"CNV*",
+    "des":""
+},
+{
+    "name":"Correspondence",
+    "acronym":"CRSP",
+    "des":""
+},
+{
+    "name":"Cost",
+    "acronym":"COST",
+    "des":""
+},
+{
+    "name":"Count",
+    "acronym":"CNT",
+    "des":"A number of people or things that have been 'counted', such as inventory cycle count"
+},
+{
+    "name":"Counter",
+    "acronym":"CNT",
+    "des":"A number of people or things that have been 'counted', such as inventory cycle count"
+},
+{
+    "name":"Country",
+    "acronym":"CTRY",
+    "des":""
+},
+{
+    "name":"County",
+    "acronym":"CNTY",
+    "des":""
+},
+{
+    "name":"Course*",
+    "acronym":"CRSE*",
+    "des":""
+},
+{
+    "name":"Coverage*",
+    "acronym":"COVRG*",
+    "des":""
+},
+{
+    "name":"Create",
+    "acronym":"CRE",
+    "des":""
+},
+{
+    "name":"Credential",
+    "acronym":"CRDL",
+    "des":""
+},
+{
+    "name":"Credit*",
+    "acronym":"CRDT",
+    "des":"Use 'CR' for field names relating to financial data Use 'CRDT' for field names relating to academic work "
+},
+{
+    "name":"CREF",
+    "acronym":"CREF",
+    "des":""
+},
+{
+    "name":"Cross",
+    "acronym":"CRS",
+    "des":""
+},
+{
+    "name":"Cross List",
+    "acronym":"XLST",
+    "des":""
+},
+{
+    "name":"Cross Listed",
+    "acronym":"XLST",
+    "des":""
+},
+{
+    "name":"Cross Reference",
+    "acronym":"XREF",
+    "des":""
+},
+{
+    "name":"Cumulative",
+    "acronym":"CUM",
+    "des":""
+},
+{
+    "name":"Currency*",
+    "acronym":"CURR*",
+    "des":""
+},
+{
+    "name":"Current*",
+    "acronym":"CUR*",
+    "des":""
+},
+{
+    "name":"Cursor",
+    "acronym":"CRSR",
+    "des":""
+},
+{
+    "name":"Custodian",
+    "acronym":"CSTN",
+    "des":""
+},
+{
+    "name":"Customer*",
+    "acronym":"CUST*",
+    "des":""
+},
+{
+    "name":"Daily",
+    "acronym":"DLY",
+    "des":""
+},
+{
+    "name":"Data",
+    "acronym":"DATA",
+    "des":""
+},
+{
+    "name":"Data Processing",
+    "acronym":"DP",
+    "des":""
+},
+{
+    "name":"Date*",
+    "acronym":"DT*",
+    "des":"A calendar day, month, and year (including century) "
+},
+{
+    "name":"Date-Time Stamp",
+    "acronym":"DTTM",
+    "des":""
+},
+{
+    "name":"Day*",
+    "acronym":"DD*",
+    "des":"A day of the week (Sunday, Monday, etc.) "
+},
+{
+    "name":"Dead",
+    "acronym":"DEAD",
+    "des":""
+},
+{
+    "name":"Death",
+    "acronym":"DEAD",
+    "des":""
+},
+{
+    "name":"Deceased",
+    "acronym":"DEAD",
+    "des":""
+},
+{
+    "name":"Debit*",
+    "acronym":"DR*",
+    "des":""
+},
+{
+    "name":"Decimal",
+    "acronym":"DEC",
+    "des":""
+},
+{
+    "name":"Deduct",
+    "acronym":"DED*",
+    "des":""
+},
+{
+    "name":"Deduction*",
+    "acronym":"DED*",
+    "des":""
+},
+{
+    "name":"Default*",
+    "acronym":"DFLT*",
+    "des":""
+},
+{
+    "name":"Deficit",
+    "acronym":"DFCT",
+    "des":""
+},
+{
+    "name":"Definition*",
+    "acronym":"DEFN*",
+    "des":""
+},
+{
+    "name":"Degree",
+    "acronym":"DEG",
+    "des":""
+},
+{
+    "name":"Delete",
+    "acronym":"DEL",
+    "des":""
+},
+{
+    "name":"Deliver",
+    "acronym":"DLVR",
+    "des":""
+},
+{
+    "name":"Delivery",
+    "acronym":"DLVR",
+    "des":""
+},
+{
+    "name":"Demo",
+    "acronym":"DMO",
+    "des":""
+},
+{
+    "name":"Dental",
+    "acronym":"DNTL",
+    "des":""
+},
+{
+    "name":"Department*",
+    "acronym":"DEPT*",
+    "des":""
+},
+{
+    "name":"Department of Motor Vehicles",
+    "acronym":"DMV",
+    "des":""
+},
+{
+    "name":"Dependency",
+    "acronym":"DEP*",
+    "des":""
+},
+{
+    "name":"Dependent*",
+    "acronym":"DEP*",
+    "des":""
+},
+{
+    "name":"Depends",
+    "acronym":"DEP*",
+    "des":""
+},
+{
+    "name":"Deposit",
+    "acronym":"DPST",
+    "des":""
+},
+{
+    "name":"Depreciation*",
+    "acronym":"DEPR*",
+    "des":""
+},
+{
+    "name":"Description*",
+    "acronym":"DSC",
+    "des":"Narrative data which translates a code or number. When a suffix, use '_DSC' (see Standard Field Name Suffix table)."
+},
+{
+    "name":"Design",
+    "acronym":"DSGN",
+    "des":""
+},
+{
+    "name":"Destination*",
+    "acronym":"DEST*",
+    "des":""
+},
+{
+    "name":"Detail*",
+    "acronym":"DETL*",
+    "des":""
+},
+{
+    "name":"Develop",
+    "acronym":"DEV",
+    "des":""
+},
+{
+    "name":"Development",
+    "acronym":"DEV",
+    "des":""
+},
+{
+    "name":"Deviation",
+    "acronym":"DEV",
+    "des":""
+},
+{
+    "name":"Difference",
+    "acronym":"DIFF",
+    "des":""
+},
+{
+    "name":"Differential",
+    "acronym":"DIFF",
+    "des":""
+},
+{
+    "name":"Digit",
+    "acronym":"DGT",
+    "des":""
+},
+{
+    "name":"Direct",
+    "acronym":"DIR",
+    "des":""
+},
+{
+    "name":"Direction",
+    "acronym":"DIR",
+    "des":""
+},
+{
+    "name":"Directional",
+    "acronym":"DIR",
+    "des":""
+},
+{
+    "name":"Disability",
+    "acronym":"DISA",
+    "des":""
+},
+{
+    "name":"Disabled",
+    "acronym":"DISA",
+    "des":""
+},
+{
+    "name":"Disbursed",
+    "acronym":"DSB",
+    "des":""
+},
+{
+    "name":"Disbursement",
+    "acronym":"DSB",
+    "des":""
+},
+{
+    "name":"Discount*",
+    "acronym":"DISC*",
+    "des":""
+},
+{
+    "name":"Displacement",
+    "acronym":"DSPL",
+    "des":""
+},
+{
+    "name":"Display",
+    "acronym":"DISP",
+    "des":""
+},
+{
+    "name":"Disposition",
+    "acronym":"DSP",
+    "des":""
+},
+{
+    "name":"Distribute",
+    "acronym":"DIST*",
+    "des":""
+},
+{
+    "name":"Distribution*",
+    "acronym":"DIST*",
+    "des":""
+},
+{
+    "name":"District",
+    "acronym":"DSTR",
+    "des":""
+},
+{
+    "name":"Division",
+    "acronym":"DIV",
+    "des":""
+},
+{
+    "name":"Division of Continuing Education",
+    "acronym":"DCE",
+    "des":""
+},
+{
+    "name":"Document",
+    "acronym":"DOC",
+    "des":""
+},
+{
+    "name":"Donor",
+    "acronym":"DONR",
+    "des":""
+},
+{
+    "name":"Down",
+    "acronym":"DN",
+    "des":""
+},
+{
+    "name":"Drive",
+    "acronym":"DRV",
+    "des":""
+},
+{
+    "name":"Driver",
+    "acronym":"DRV",
+    "des":""
+},
+{
+    "name":"Drop",
+    "acronym":"DRP",
+    "des":""
+},
+{
+    "name":"Due",
+    "acronym":"DUE",
+    "des":""
+},
+{
+    "name":"Duplicate*",
+    "acronym":"DUP*",
+    "des":""
+},
+{
+    "name":"Duplication",
+    "acronym":"DUP*",
+    "des":""
+},
+{
+    "name":"Each",
+    "acronym":"EA",
+    "des":""
+},
+{
+    "name":"Early",
+    "acronym":"ERLY",
+    "des":""
+},
+{
+    "name":"Earn",
+    "acronym":"EARN*",
+    "des":""
+},
+{
+    "name":"Earned",
+    "acronym":"EARN*",
+    "des":""
+},
+{
+    "name":"Earnings*",
+    "acronym":"EARN*",
+    "des":""
+},
+{
+    "name":"Earned Income Credit",
+    "acronym":"EIC",
+    "des":""
+},
+{
+    "name":"Educate",
+    "acronym":"EDU",
+    "des":""
+},
+{
+    "name":"Education",
+    "acronym":"EDU",
+    "des":""
+},
+{
+    "name":"Effect",
+    "acronym":"EFF*",
+    "des":""
+},
+{
+    "name":"Effective*",
+    "acronym":"EFF*",
+    "des":""
+},
+{
+    "name":"Effective Date*",
+    "acronym":"EFFDT*",
+    "des":""
+},
+{
+    "name":"Effective Date Sequence*",
+    "acronym":"EFFSEQ*",
+    "des":""
+},
+{
+    "name":"Effort",
+    "acronym":"EFRT",
+    "des":""
+},
+{
+    "name":"Elect",
+    "acronym":"ELCT",
+    "des":""
+},
+{
+    "name":"Elected",
+    "acronym":"ELCT",
+    "des":""
+},
+{
+    "name":"Elective",
+    "acronym":"ELCT",
+    "des":""
+},
+{
+    "name":"Electronic Data Interchange",
+    "acronym":"EDI",
+    "des":""
+},
+{
+    "name":"Electronic Funds Transfer",
+    "acronym":"EFT",
+    "des":""
+},
+{
+    "name":"Electronic Mail",
+    "acronym":"EM",
+    "des":""
+},
+{
+    "name":"Eligibility*",
+    "acronym":"ELIG*",
+    "des":""
+},
+{
+    "name":"Eligible",
+    "acronym":"ELIG*",
+    "des":""
+},
+{
+    "name":"Emergency",
+    "acronym":"EMRG",
+    "des":""
+},
+{
+    "name":"Emphasis",
+    "acronym":"EMPH",
+    "des":""
+},
+{
+    "name":"Employee*",
+    "acronym":"EMPL",
+    "des":""
+},
+{
+    "name":"Employee ID*",
+    "acronym":"EMPLID*",
+    "des":""
+},
+{
+    "name":"Employer*",
+    "acronym":"ER*",
+    "des":""
+},
+{
+    "name":"Employment",
+    "acronym":"EMPLMT",
+    "des":""
+},
+{
+    "name":"Encumber",
+    "acronym":"ENCB",
+    "des":""
+},
+{
+    "name":"Encumbrance",
+    "acronym":"ENCB",
+    "des":""
+},
+{
+    "name":"End",
+    "acronym":"END",
+    "des":""
+},
+{
+    "name":"Ending",
+    "acronym":"END",
+    "des":""
+},
+{
+    "name":"End of Term",
+    "acronym":"EOT",
+    "des":""
+},
+{
+    "name":"Endorse",
+    "acronym":"ENDR",
+    "des":""
+},
+{
+    "name":"Endorsement",
+    "acronym":"ENDR",
+    "des":""
+},
+{
+    "name":"Endorsement",
+    "acronym":"ENDR",
+    "des":""
+},
+{
+    "name":"Endow",
+    "acronym":"ENDW",
+    "des":""
+},
+{
+    "name":"Endowment",
+    "acronym":"ENDW",
+    "des":""
+},
+{
+    "name":"Engineer",
+    "acronym":"ENGN",
+    "des":""
+},
+{
+    "name":"Engineering",
+    "acronym":"ENGN",
+    "des":""
+},
+{
+    "name":"English",
+    "acronym":"ENGL",
+    "des":""
+},
+{
+    "name":"Enrichment",
+    "acronym":"ENRCH",
+    "des":""
+},
+{
+    "name":"Enrollment",
+    "acronym":"ENRL",
+    "des":""
+},
+{
+    "name":"Enter",
+    "acronym":"ENTR",
+    "des":""
+},
+{
+    "name":"Entered",
+    "acronym":"ENTR",
+    "des":""
+},
+{
+    "name":"Entry",
+    "acronym":"ENTR",
+    "des":""
+},
+{
+    "name":"Entitle",
+    "acronym":"ENTL",
+    "des":""
+},
+{
+    "name":"Entitlement",
+    "acronym":"ENTL",
+    "des":""
+},
+{
+    "name":"Equal",
+    "acronym":"EQ",
+    "des":""
+},
+{
+    "name":"Equality",
+    "acronym":"EQ",
+    "des":""
+},
+{
+    "name":"Equivalence",
+    "acronym":"EQ",
+    "des":""
+},
+{
+    "name":"Equivalent",
+    "acronym":"EQ",
+    "des":""
+},
+{
+    "name":"Equal Employment Opportunity",
+    "acronym":"EEO",
+    "des":""
+},
+{
+    "name":"Equal Opportunity",
+    "acronym":"EEO",
+    "des":""
+},
+{
+    "name":"Equip",
+    "acronym":"EQP",
+    "des":""
+},
+{
+    "name":"Error",
+    "acronym":"ERR",
+    "des":""
+},
+{
+    "name":"Establishment",
+    "acronym":"ESTB",
+    "des":""
+},
+{
+    "name":"Ethnic",
+    "acronym":"ETHN",
+    "des":""
+},
+{
+    "name":"Evaluation",
+    "acronym":"EVAL",
+    "des":""
+},
+{
+    "name":"Evaluator",
+    "acronym":"EVAL",
+    "des":""
+},
+{
+    "name":"Event",
+    "acronym":"EVNT",
+    "des":""
+},
+{
+    "name":"Exam",
+    "acronym":"EXM",
+    "des":""
+},
+{
+    "name":"Exception",
+    "acronym":"EXCP",
+    "des":""
+},
+{
+    "name":"Exclude",
+    "acronym":"EXCL",
+    "des":""
+},
+{
+    "name":"Exclusion",
+    "acronym":"EXCL",
+    "des":""
+},
+{
+    "name":"Execute",
+    "acronym":"EXEC",
+    "des":""
+},
+{
+    "name":"Execution",
+    "acronym":"EXEC",
+    "des":""
+},
+{
+    "name":"Exempt",
+    "acronym":"EXMT",
+    "des":""
+},
+{
+    "name":"Exemption",
+    "acronym":"EXMT",
+    "des":""
+},
+{
+    "name":"Expect",
+    "acronym":"EXPC",
+    "des":""
+},
+{
+    "name":"Expected",
+    "acronym":"EXPC",
+    "des":""
+},
+{
+    "name":"Expected Family Contribution",
+    "acronym":"EFC",
+    "des":""
+},
+{
+    "name":"Expedite",
+    "acronym":"XPDT",
+    "des":""
+},
+{
+    "name":"Expense",
+    "acronym":"EXP",
+    "des":""
+},
+{
+    "name":"Export",
+    "acronym":"EXP",
+    "des":""
+},
+{
+    "name":"Express",
+    "acronym":"EXP",
+    "des":""
+},
+{
+    "name":"Experimental",
+    "acronym":"EXPM",
+    "des":""
+},
+{
+    "name":"Expiration",
+    "acronym":"EXPR",
+    "des":""
+},
+{
+    "name":"Expire",
+    "acronym":"EXPR",
+    "des":""
+},
+{
+    "name":"Export",
+    "acronym":"EXP",
+    "des":""
+},
+{
+    "name":"Expense",
+    "acronym":"EXP",
+    "des":""
+},
+{
+    "name":"Extend",
+    "acronym":"EXT",
+    "des":""
+},
+{
+    "name":"Extended",
+    "acronym":"EXT",
+    "des":""
+},
+{
+    "name":"Extension",
+    "acronym":"EXT",
+    "des":""
+},
+{
+    "name":"External",
+    "acronym":"EXTR",
+    "des":""
+},
+{
+    "name":"Facility",
+    "acronym":"FCLT",
+    "des":""
+},
+{
+    "name":"Faculty",
+    "acronym":"FAC",
+    "des":""
+},
+{
+    "name":"Family",
+    "acronym":"FMLY",
+    "des":""
+},
+{
+    "name":"Family Eduaction Rights and Privacy Act",
+    "acronym":"FERPA",
+    "des":""
+},
+{
+    "name":"Fast",
+    "acronym":"FST",
+    "des":""
+},
+{
+    "name":"Father",
+    "acronym":"FATH",
+    "des":""
+},
+{
+    "name":"Federal",
+    "acronym":"FED",
+    "des":""
+},
+{
+    "name":"Federal Labor and Security Act",
+    "acronym":"FLSA",
+    "des":""
+},
+{
+    "name":"Fee",
+    "acronym":"FEE",
+    "des":""
+},
+{
+    "name":"Feet",
+    "acronym":"FT",
+    "des":""
+},
+{
+    "name":"Full Time",
+    "acronym":"FT",
+    "des":""
+},
+{
+    "name":"FICA",
+    "acronym":"FICA",
+    "des":""
+},
+{
+    "name":"Field",
+    "acronym":"FLD",
+    "des":""
+},
+{
+    "name":"Fields",
+    "acronym":"FLD",
+    "des":""
+},
+{
+    "name":"File",
+    "acronym":"FILE",
+    "des":""
+},
+{
+    "name":"Final",
+    "acronym":"FNL",
+    "des":""
+},
+{
+    "name":"Financial*",
+    "acronym":"FIN*",
+    "des":""
+},
+{
+    "name":"Financial Aid",
+    "acronym":"FA",
+    "des":""
+},
+{
+    "name":"Fine",
+    "acronym":"FINE",
+    "des":""
+},
+{
+    "name":"First",
+    "acronym":"FRST",
+    "des":""
+},
+{
+    "name":"Fiscal",
+    "acronym":"FISC",
+    "des":""
+},
+{
+    "name":"Fiscal Year",
+    "acronym":"FY",
+    "des":""
+},
+{
+    "name":"Fiscal Year to Date",
+    "acronym":"FYTD",
+    "des":""
+},
+{
+    "name":"Fix",
+    "acronym":"FIX",
+    "des":""
+},
+{
+    "name":"Fixed",
+    "acronym":"FIX",
+    "des":""
+},
+{
+    "name":"Flag",
+    "acronym":"FLG",
+    "des":"Data which functions as a flag or indicator. Used with only two possible states/conditions. Data should normally be 'Y' or 'N'."
+},
+{
+    "name":"Flexible Spending Account",
+    "acronym":"FSA",
+    "des":""
+},
+{
+    "name":"Floor",
+    "acronym":"FLR",
+    "des":""
+},
+{
+    "name":"For",
+    "acronym":"FOR",
+    "des":""
+},
+{
+    "name":"Foreign",
+    "acronym":"FGN",
+    "des":""
+},
+{
+    "name":"Foreign Key",
+    "acronym":"FK",
+    "des":""
+},
+{
+    "name":"Form",
+    "acronym":"FRM",
+    "des":""
+},
+{
+    "name":"Format",
+    "acronym":"FMT",
+    "des":""
+},
+{
+    "name":"Former",
+    "acronym":"FORMR",
+    "des":""
+},
+{
+    "name":"Free",
+    "acronym":"FREE",
+    "des":""
+},
+{
+    "name":"Free Application for Federal Student Aid",
+    "acronym":"FAFSA",
+    "des":""
+},
+{
+    "name":"Free on Board",
+    "acronym":"FOB",
+    "des":""
+},
+{
+    "name":"Freeze",
+    "acronym":"FRZ",
+    "des":""
+},
+{
+    "name":"Frozen",
+    "acronym":"FRZ",
+    "des":""
+},
+{
+    "name":"Frequency*",
+    "acronym":"FREQ*",
+    "des":""
+},
+{
+    "name":"Fresh",
+    "acronym":"FRSH",
+    "des":""
+},
+{
+    "name":"Freshman",
+    "acronym":"FRSH",
+    "des":""
+},
+{
+    "name":"From",
+    "acronym":"FR",
+    "des":""
+},
+{
+    "name":"Fulfill",
+    "acronym":"FULF",
+    "des":""
+},
+{
+    "name":"Fulfilled",
+    "acronym":"FULF",
+    "des":""
+},
+{
+    "name":"Full Time",
+    "acronym":"FT",
+    "des":""
+},
+{
+    "name":"Full Time Equivalent",
+    "acronym":"FTE",
+    "des":""
+},
+{
+    "name":"Function",
+    "acronym":"FCN",
+    "des":""
+},
+{
+    "name":"Functional",
+    "acronym":"FCN",
+    "des":""
+},
+{
+    "name":"Fund",
+    "acronym":"FUND",
+    "des":""
+},
+{
+    "name":"Funding",
+    "acronym":"FUND",
+    "des":""
+},
+{
+    "name":"Future",
+    "acronym":"FUT",
+    "des":""
+},
+{
+    "name":"Garnishment*",
+    "acronym":"GARN*",
+    "des":""
+},
+{
+    "name":"General",
+    "acronym":"GENL",
+    "des":""
+},
+{
+    "name":"General Education Degree",
+    "acronym":"GED",
+    "des":""
+},
+{
+    "name":"General Ledger",
+    "acronym":"GL",
+    "des":""
+},
+{
+    "name":"Geographic",
+    "acronym":"GEOG",
+    "des":""
+},
+{
+    "name":"Geography",
+    "acronym":"GEOG",
+    "des":""
+},
+{
+    "name":"Gift",
+    "acronym":"GFT",
+    "des":""
+},
+{
+    "name":"Global",
+    "acronym":"GLBL",
+    "des":""
+},
+{
+    "name":"Government",
+    "acronym":"GOVT",
+    "des":""
+},
+{
+    "name":"Grade",
+    "acronym":"GDE",
+    "des":"A value assigned to reflect performance or position on a scale "
+},
+{
+    "name":"Grade Point Average",
+    "acronym":"GPA",
+    "des":""
+},
+{
+    "name":"Graduate",
+    "acronym":"GRAD",
+    "des":""
+},
+{
+    "name":"Grant",
+    "acronym":"GRNT",
+    "des":""
+},
+{
+    "name":"Granted",
+    "acronym":"GRNT",
+    "des":""
+},
+{
+    "name":"Gross",
+    "acronym":"GROS",
+    "des":""
+},
+{
+    "name":"Group",
+    "acronym":"GRP",
+    "des":""
+},
+{
+    "name":"Guarantee",
+    "acronym":"GUAR",
+    "des":""
+},
+{
+    "name":"Guaranteed Student Loan",
+    "acronym":"GSL",
+    "des":""
+},
+{
+    "name":"Guest",
+    "acronym":"GST",
+    "des":""
+},
+{
+    "name":"Handicap",
+    "acronym":"HAND",
+    "des":""
+},
+{
+    "name":"Handicapped",
+    "acronym":"HAND",
+    "des":""
+},
+{
+    "name":"Head",
+    "acronym":"HEAD",
+    "des":""
+},
+{
+    "name":"Header*",
+    "acronym":"HDR*",
+    "des":""
+},
+{
+    "name":"Health",
+    "acronym":"HLTH",
+    "des":""
+},
+{
+    "name":"Held",
+    "acronym":"HLD",
+    "des":""
+},
+{
+    "name":"Hold",
+    "acronym":"HLD",
+    "des":""
+},
+{
+    "name":"Help",
+    "acronym":"HLP",
+    "des":""
+},
+{
+    "name":"Hierarchy",
+    "acronym":"HIER",
+    "des":""
+},
+{
+    "name":"High",
+    "acronym":"H",
+    "des":"Normally used in conjunction with another word (i.e., High School abbreviated as 'HS')."
+},
+{
+    "name":"High School",
+    "acronym":"HS",
+    "des":""
+},
+{
+    "name":"High School Services",
+    "acronym":"HSS",
+    "des":""
+},
+{
+    "name":"Higher Education",
+    "acronym":"HED",
+    "des":""
+},
+{
+    "name":"Highway",
+    "acronym":"HWAY",
+    "des":""
+},
+{
+    "name":"Hire",
+    "acronym":"HIRE",
+    "des":""
+},
+{
+    "name":"History",
+    "acronym":"HST",
+    "des":""
+},
+{
+    "name":"Home",
+    "acronym":"HM",
+    "des":""
+},
+{
+    "name":"Honor",
+    "acronym":"HONR",
+    "des":""
+},
+{
+    "name":"Honor Society",
+    "acronym":"HSC",
+    "des":""
+},
+{
+    "name":"Hospital",
+    "acronym":"HOSP",
+    "des":""
+},
+{
+    "name":"Hour",
+    "acronym":"HH",
+    "des":"A duration of time expressed in hours "
+},
+{
+    "name":"Hourly",
+    "acronym":"HRLY",
+    "des":""
+},
+{
+    "name":"Hours*",
+    "acronym":"HRS*",
+    "des":""
+},
+{
+    "name":"House",
+    "acronym":"HSE",
+    "des":""
+},
+{
+    "name":"Housing",
+    "acronym":"HSE",
+    "des":""
+},
+{
+    "name":"How",
+    "acronym":"HOW",
+    "des":""
+},
+{
+    "name":"Human Resources",
+    "acronym":"HR",
+    "des":""
+},
+{
+    "name":"Human Resource System",
+    "acronym":"HRS",
+    "des":""
+},
+{
+    "name":"Identification",
+    "acronym":"ID*",
+    "des":"Alphanumeric data which identifies a person, place, or thing "
+},
+{
+    "name":"Identifier*",
+    "acronym":"ID*",
+    "des":"Alphanumeric data which identifies a person, place, or thing "
+},
+{
+    "name":"Indicator",
+    "acronym":"ID*",
+    "des":"Alphanumeric data which identifies a person, place, or thing "
+},
+{
+    "name":"Image",
+    "acronym":"IMG",
+    "des":""
+},
+{
+    "name":"Immune",
+    "acronym":"IMUN",
+    "des":""
+},
+{
+    "name":"Immunization",
+    "acronym":"IMUN",
+    "des":""
+},
+{
+    "name":"Impact",
+    "acronym":"IMPC",
+    "des":""
+},
+{
+    "name":"Implementation",
+    "acronym":"IMPL",
+    "des":""
+},
+{
+    "name":"Import",
+    "acronym":"IMP",
+    "des":""
+},
+{
+    "name":"Import/Export",
+    "acronym":"IMPEXP",
+    "des":""
+},
+{
+    "name":"Inch",
+    "acronym":"IN",
+    "des":""
+},
+{
+    "name":"Include",
+    "acronym":"INCL",
+    "des":""
+},
+{
+    "name":"Income",
+    "acronym":"INCM",
+    "des":""
+},
+{
+    "name":"Increase",
+    "acronym":"INCR",
+    "des":""
+},
+{
+    "name":"Increment",
+    "acronym":"INCR",
+    "des":""
+},
+{
+    "name":"Index",
+    "acronym":"INDX",
+    "des":""
+},
+{
+    "name":"Indicator",
+    "acronym":"ID",
+    "des":""
+},
+{
+    "name":"Individual",
+    "acronym":"INDV",
+    "des":""
+},
+{
+    "name":"Individual Student Information Report",
+    "acronym":"ISIR",
+    "des":""
+},
+{
+    "name":"Information",
+    "acronym":"INFO",
+    "des":""
+},
+{
+    "name":"Initial",
+    "acronym":"INIT",
+    "des":""
+},
+{
+    "name":"Initialize",
+    "acronym":"INIT",
+    "des":""
+},
+{
+    "name":"Injury*",
+    "acronym":"INJ*",
+    "des":""
+},
+{
+    "name":"Inoculation",
+    "acronym":"INOC",
+    "des":""
+},
+{
+    "name":"Input",
+    "acronym":"INPT",
+    "des":""
+},
+{
+    "name":"Inquiry",
+    "acronym":"INQ",
+    "des":""
+},
+{
+    "name":"Insert",
+    "acronym":"ISRT",
+    "des":""
+},
+{
+    "name":"Institution",
+    "acronym":"INST",
+    "des":""
+},
+{
+    "name":"Instruction",
+    "acronym":"ISTR",
+    "des":""
+},
+{
+    "name":"Instructional",
+    "acronym":"ISTR",
+    "des":""
+},
+{
+    "name":"Instructor",
+    "acronym":"ISTR",
+    "des":""
+},
+{
+    "name":"Instructional Need Analysis System",
+    "acronym":"INAS",
+    "des":""
+},
+{
+    "name":"Insurance",
+    "acronym":"INS",
+    "des":""
+},
+{
+    "name":"Inter-Unit*",
+    "acronym":"IU*",
+    "des":""
+},
+{
+    "name":"Interest",
+    "acronym":"INT",
+    "des":""
+},
+{
+    "name":"Interface*",
+    "acronym":"INTFC*",
+    "des":""
+},
+{
+    "name":"Internal",
+    "acronym":"INTR",
+    "des":""
+},
+{
+    "name":"International",
+    "acronym":"INTL",
+    "des":""
+},
+{
+    "name":"Interval",
+    "acronym":"INVL",
+    "des":""
+},
+{
+    "name":"Interview",
+    "acronym":"INTV",
+    "des":""
+},
+{
+    "name":"Interviewer",
+    "acronym":"INTV",
+    "des":""
+},
+{
+    "name":"Invent",
+    "acronym":"INVN",
+    "des":""
+},
+{
+    "name":"Inventory",
+    "acronym":"INV",
+    "des":""
+},
+{
+    "name":"Investment*",
+    "acronym":"INVEST*",
+    "des":""
+},
+{
+    "name":"Invitation",
+    "acronym":"INVT",
+    "des":""
+},
+{
+    "name":"Invite",
+    "acronym":"INVT",
+    "des":""
+},
+{
+    "name":"Invoice",
+    "acronym":"INVC",
+    "des":""
+},
+{
+    "name":"Issue",
+    "acronym":"ISS",
+    "des":""
+},
+{
+    "name":"Issued",
+    "acronym":"ISS",
+    "des":""
+},
+{
+    "name":"Item",
+    "acronym":"ITM",
+    "des":""
+},
+{
+    "name":"Job",
+    "acronym":"JOB",
+    "des":""
+},
+{
+    "name":"Journal*",
+    "acronym":"JRNL*",
+    "des":""
+},
+{
+    "name":"Junior",
+    "acronym":"JR",
+    "des":""
+},
+{
+    "name":"Junior Science",
+    "acronym":"JS",
+    "des":""
+},
+{
+    "name":"Key",
+    "acronym":"KEY",
+    "des":""
+},
+{
+    "name":"Label",
+    "acronym":"LBL",
+    "des":""
+},
+{
+    "name":"Labor",
+    "acronym":"LBR",
+    "des":""
+},
+{
+    "name":"Laboratory",
+    "acronym":"LAB",
+    "des":""
+},
+{
+    "name":"Language",
+    "acronym":"LNG",
+    "des":""
+},
+{
+    "name":"Last",
+    "acronym":"LST",
+    "des":""
+},
+{
+    "name":"List",
+    "acronym":"LST",
+    "des":""
+},
+{
+    "name":"Late",
+    "acronym":"LATE",
+    "des":""
+},
+{
+    "name":"Latitude",
+    "acronym":"LAT",
+    "des":""
+},
+{
+    "name":"Layoff",
+    "acronym":"LAYF",
+    "des":""
+},
+{
+    "name":"Leave",
+    "acronym":"LV",
+    "des":""
+},
+{
+    "name":"Lecture",
+    "acronym":"LCTR",
+    "des":""
+},
+{
+    "name":"Ledger*",
+    "acronym":"LED*",
+    "des":""
+},
+{
+    "name":"Legal",
+    "acronym":"LGL",
+    "des":""
+},
+{
+    "name":"Lender",
+    "acronym":"LNDR",
+    "des":""
+},
+{
+    "name":"Length*",
+    "acronym":"LEN*",
+    "des":""
+},
+{
+    "name":"Letter",
+    "acronym":"LTR",
+    "des":""
+},
+{
+    "name":"Level",
+    "acronym":"LVL",
+    "des":""
+},
+{
+    "name":"Liaison",
+    "acronym":"LISN",
+    "des":""
+},
+{
+    "name":"Liberal Education",
+    "acronym":"LBD",
+    "des":""
+},
+{
+    "name":"Library",
+    "acronym":"LIB",
+    "des":""
+},
+{
+    "name":"License",
+    "acronym":"LIC",
+    "des":""
+},
+{
+    "name":"License Plate Number",
+    "acronym":"LIC_PLTE_NBR",
+    "des":""
+},
+{
+    "name":"Life",
+    "acronym":"LIFE",
+    "des":""
+},
+{
+    "name":"Limit*",
+    "acronym":"LIM*",
+    "des":""
+},
+{
+    "name":"Line*",
+    "acronym":"LN*",
+    "des":""
+},
+{
+    "name":"Loan",
+    "acronym":"LN*",
+    "des":""
+},
+{
+    "name":"Link",
+    "acronym":"LNK",
+    "des":""
+},
+{
+    "name":"Linked",
+    "acronym":"LNK",
+    "des":""
+},
+{
+    "name":"Liquid",
+    "acronym":"LIQ",
+    "des":""
+},
+{
+    "name":"List",
+    "acronym":"LST",
+    "des":""
+},
+{
+    "name":"Last",
+    "acronym":"LST",
+    "des":""
+},
+{
+    "name":"Literal",
+    "acronym":"LTRL",
+    "des":""
+},
+{
+    "name":"Load",
+    "acronym":"LOAD",
+    "des":""
+},
+{
+    "name":"Loan",
+    "acronym":"LN",
+    "des":""
+},
+{
+    "name":"Line*",
+    "acronym":"LN",
+    "des":""
+},
+{
+    "name":"Locate",
+    "acronym":"LOC*",
+    "des":""
+},
+{
+    "name":"Location*",
+    "acronym":"LOC*",
+    "des":""
+},
+{
+    "name":"Lock",
+    "acronym":"LK",
+    "des":""
+},
+{
+    "name":"Locker",
+    "acronym":"LKR",
+    "des":""
+},
+{
+    "name":"Log",
+    "acronym":"LOG",
+    "des":""
+},
+{
+    "name":"Log on",
+    "acronym":"LOGON",
+    "des":""
+},
+{
+    "name":"Long",
+    "acronym":"LONG",
+    "des":""
+},
+{
+    "name":"Longest",
+    "acronym":"LONG",
+    "des":""
+},
+{
+    "name":"Long Term Care",
+    "acronym":"LTC",
+    "des":""
+},
+{
+    "name":"Long Term Disability",
+    "acronym":"LTD",
+    "des":""
+},
+{
+    "name":"Longitude",
+    "acronym":"LON",
+    "des":""
+},
+{
+    "name":"Lot",
+    "acronym":"LOT",
+    "des":""
+},
+{
+    "name":"Low",
+    "acronym":"LOW",
+    "des":""
+},
+{
+    "name":"Mail",
+    "acronym":"MAIL",
+    "des":""
+},
+{
+    "name":"Mailer",
+    "acronym":"MAIL",
+    "des":""
+},
+{
+    "name":"Mailing",
+    "acronym":"MAIL",
+    "des":""
+},
+{
+    "name":"Maintenance*",
+    "acronym":"MAINT*",
+    "des":""
+},
+{
+    "name":"Major",
+    "acronym":"MJR",
+    "des":""
+},
+{
+    "name":"Make",
+    "acronym":"MK",
+    "des":""
+},
+{
+    "name":"Manager",
+    "acronym":"MGR",
+    "des":""
+},
+{
+    "name":"Map",
+    "acronym":"MAP",
+    "des":""
+},
+{
+    "name":"Marital",
+    "acronym":"MRTL",
+    "des":""
+},
+{
+    "name":"Message Agent Server",
+    "acronym":"MAS",
+    "des":""
+},
+{
+    "name":"Mask",
+    "acronym":"MSK",
+    "des":""
+},
+{
+    "name":"Master Academic Records System",
+    "acronym":"MARS",
+    "des":""
+},
+{
+    "name":"Match",
+    "acronym":"MTCH",
+    "des":""
+},
+{
+    "name":"Matching",
+    "acronym":"MTCH",
+    "des":""
+},
+{
+    "name":"Math",
+    "acronym":"MTH",
+    "des":""
+},
+{
+    "name":"Matriculated",
+    "acronym":"MTRC",
+    "des":""
+},
+{
+    "name":"Matriculation",
+    "acronym":"MTRC",
+    "des":""
+},
+{
+    "name":"Maximum*",
+    "acronym":"MAX*",
+    "des":""
+},
+{
+    "name":"Medical",
+    "acronym":"MED",
+    "des":""
+},
+{
+    "name":"Medicinal",
+    "acronym":"MED",
+    "des":""
+},
+{
+    "name":"Meet",
+    "acronym":"MT",
+    "des":""
+},
+{
+    "name":"Meeting",
+    "acronym":"MT",
+    "des":""
+},
+{
+    "name":"Member",
+    "acronym":"MBR",
+    "des":""
+},
+{
+    "name":"Membership",
+    "acronym":"MSHP",
+    "des":""
+},
+{
+    "name":"Memo",
+    "acronym":"MMO",
+    "des":""
+},
+{
+    "name":"Memorandum",
+    "acronym":"MMO",
+    "des":""
+},
+{
+    "name":"Memorial",
+    "acronym":"MEMR",
+    "des":""
+},
+{
+    "name":"Merchandise",
+    "acronym":"MERCHNDS",
+    "des":""
+},
+{
+    "name":"Merchant",
+    "acronym":"MERCH",
+    "des":""
+},
+{
+    "name":"Merit",
+    "acronym":"MERT",
+    "des":""
+},
+{
+    "name":"Message",
+    "acronym":"MSG*",
+    "des":""
+},
+{
+    "name":"Messages*",
+    "acronym":"MSG*",
+    "des":""
+},
+{
+    "name":"Meter",
+    "acronym":"MTR",
+    "des":""
+},
+{
+    "name":"Method",
+    "acronym":"METH",
+    "des":""
+},
+{
+    "name":"Microfilm",
+    "acronym":"MFILM",
+    "des":""
+},
+{
+    "name":"Middle",
+    "acronym":"MID",
+    "des":""
+},
+{
+    "name":"Military",
+    "acronym":"MIL",
+    "des":""
+},
+{
+    "name":"Minimum*",
+    "acronym":"MIN*",
+    "des":""
+},
+{
+    "name":"Minor",
+    "acronym":"MINR",
+    "des":""
+},
+{
+    "name":"Minute",
+    "acronym":"MNT",
+    "des":"A duration of time expressed in minutes "
+},
+{
+    "name":"Miscellaneous",
+    "acronym":"MISC",
+    "des":""
+},
+{
+    "name":"Mode",
+    "acronym":"MDE",
+    "des":""
+},
+{
+    "name":"Modification",
+    "acronym":"MOD",
+    "des":""
+},
+{
+    "name":"Modifier",
+    "acronym":"MOD",
+    "des":""
+},
+{
+    "name":"Monetary",
+    "acronym":"MONY",
+    "des":""
+},
+{
+    "name":"Money",
+    "acronym":"MONY",
+    "des":""
+},
+{
+    "name":"Month*",
+    "acronym":"MM*",
+    "des":"A calendar month in numeric form (e.g., 01=January) "
+},
+{
+    "name":"Month-to-Date*",
+    "acronym":"MTD*",
+    "des":""
+},
+{
+    "name":"More",
+    "acronym":"MORE",
+    "des":""
+},
+{
+    "name":"Mother",
+    "acronym":"MOTH",
+    "des":""
+},
+{
+    "name":"Move",
+    "acronym":"MOVE",
+    "des":""
+},
+{
+    "name":"Multiple",
+    "acronym":"MULT",
+    "des":""
+},
+{
+    "name":"Name",
+    "acronym":"NM",
+    "des":"Word(s) by which a person, place or thing is commonly known "
+},
+{
+    "name":"National",
+    "acronym":"NATL",
+    "des":""
+},
+{
+    "name":"National Association of College and University Business Officers",
+    "acronym":"NACUBO",
+    "des":""
+},
+{
+    "name":"National Student Loan Direct System",
+    "acronym":"NSLDS",
+    "des":"Commonly known as the 'PerkinsLoan' "
+},
+{
+    "name":"Navigation",
+    "acronym":"NAV",
+    "des":""
+},
+{
+    "name":"New",
+    "acronym":"NEW",
+    "des":""
+},
+{
+    "name":"Next",
+    "acronym":"NXT",
+    "des":""
+},
+{
+    "name":"Next of Kin",
+    "acronym":"NOK",
+    "des":""
+},
+{
+    "name":"No Charge",
+    "acronym":"NC",
+    "des":""
+},
+{
+    "name":"No Credit",
+    "acronym":"NOCR",
+    "des":""
+},
+{
+    "name":"No Print",
+    "acronym":"NPRT",
+    "des":""
+},
+{
+    "name":"Nominal",
+    "acronym":"NOM",
+    "des":""
+},
+{
+    "name":"Non",
+    "acronym":"NON",
+    "des":""
+},
+{
+    "name":"Non-Personal Services",
+    "acronym":"NPS",
+    "des":""
+},
+{
+    "name":"Not",
+    "acronym":"NOT",
+    "des":""
+},
+{
+    "name":"Not Applicable",
+    "acronym":"NA",
+    "des":""
+},
+{
+    "name":"Note",
+    "acronym":"NOTE",
+    "des":""
+},
+{
+    "name":"Notice",
+    "acronym":"NOTE",
+    "des":""
+},
+{
+    "name":"Notification",
+    "acronym":"NOTE",
+    "des":""
+},
+{
+    "name":"Notify",
+    "acronym":"NOTE",
+    "des":""
+},
+{
+    "name":"Number*",
+    "acronym":"NBR*",
+    "des":"Numeric data which identifies a person, place, or thing "
+},
+{
+    "name":"Numeric",
+    "acronym":"NBR*",
+    "des":"Numeric data which identifies a person, place, or thing "
+},
+{
+    "name":"Object",
+    "acronym":"OBJ",
+    "des":""
+},
+{
+    "name":"Objective",
+    "acronym":"OBJ",
+    "des":""
+},
+{
+    "name":"Occupation",
+    "acronym":"OCP",
+    "des":""
+},
+{
+    "name":"Occurs",
+    "acronym":"OCC",
+    "des":""
+},
+{
+    "name":"Offer",
+    "acronym":"OFFR",
+    "des":""
+},
+{
+    "name":"Offered",
+    "acronym":"OFFR",
+    "des":""
+},
+{
+    "name":"Office",
+    "acronym":"OFFC",
+    "des":""
+},
+{
+    "name":"Officer",
+    "acronym":"OFCR",
+    "des":""
+},
+{
+    "name":"Official",
+    "acronym":"OFCL",
+    "des":""
+},
+{
+    "name":"Old",
+    "acronym":"OLD",
+    "des":""
+},
+{
+    "name":"Online",
+    "acronym":"ONLN",
+    "des":""
+},
+{
+    "name":"Open",
+    "acronym":"OPN",
+    "des":""
+},
+{
+    "name":"Operator*",
+    "acronym":"OPR*",
+    "des":""
+},
+{
+    "name":"Option",
+    "acronym":"OPT",
+    "des":""
+},
+{
+    "name":"Optional",
+    "acronym":"OPT",
+    "des":""
+},
+{
+    "name":"Options",
+    "acronym":"OPT",
+    "des":""
+},
+{
+    "name":"Order",
+    "acronym":"ORDR",
+    "des":""
+},
+{
+    "name":"Organization",
+    "acronym":"ORG",
+    "des":""
+},
+{
+    "name":"Organize",
+    "acronym":"ORG",
+    "des":""
+},
+{
+    "name":"Orientation",
+    "acronym":"ORNT",
+    "des":""
+},
+{
+    "name":"Origin",
+    "acronym":"ORIG",
+    "des":""
+},
+{
+    "name":"Original",
+    "acronym":"ORIG",
+    "des":""
+},
+{
+    "name":"Origination",
+    "acronym":"ORIG",
+    "des":""
+},
+{
+    "name":"Other",
+    "acronym":"OTHR",
+    "des":""
+},
+{
+    "name":"Out",
+    "acronym":"OUT",
+    "des":""
+},
+{
+    "name":"Over",
+    "acronym":"OVR",
+    "des":""
+},
+{
+    "name":"Overhead",
+    "acronym":"OH",
+    "des":""
+},
+{
+    "name":"Override",
+    "acronym":"OVRD",
+    "des":""
+},
+{
+    "name":"Overtime",
+    "acronym":"OT",
+    "des":""
+},
+{
+    "name":"Own",
+    "acronym":"OWN",
+    "des":""
+},
+{
+    "name":"Owned",
+    "acronym":"OWN",
+    "des":""
+},
+{
+    "name":"Owner",
+    "acronym":"OWNR",
+    "des":""
+},
+{
+    "name":"Packaged",
+    "acronym":"PACK",
+    "des":""
+},
+{
+    "name":"Paid",
+    "acronym":"PAID",
+    "des":""
+},
+{
+    "name":"Paper",
+    "acronym":"PPR",
+    "des":""
+},
+{
+    "name":"Parameter*",
+    "acronym":"PARM*",
+    "des":""
+},
+{
+    "name":"Parent",
+    "acronym":"PAR",
+    "des":""
+},
+{
+    "name":"Parity",
+    "acronym":"PRTY",
+    "des":""
+},
+{
+    "name":"Priority",
+    "acronym":"PRTY",
+    "des":""
+},
+{
+    "name":"Park",
+    "acronym":"PRK",
+    "des":""
+},
+{
+    "name":"Part",
+    "acronym":"PRT",
+    "des":""
+},
+{
+    "name":"Partial",
+    "acronym":"PRT",
+    "des":""
+},
+{
+    "name":"Part Time",
+    "acronym":"PT",
+    "des":""
+},
+{
+    "name":"Participation",
+    "acronym":"PRTP",
+    "des":""
+},
+{
+    "name":"Pass",
+    "acronym":"PASS",
+    "des":""
+},
+{
+    "name":"Passed",
+    "acronym":"PASS",
+    "des":""
+},
+{
+    "name":"Past",
+    "acronym":"PAST",
+    "des":""
+},
+{
+    "name":"Patron",
+    "acronym":"PTRN",
+    "des":""
+},
+{
+    "name":"Pay",
+    "acronym":"PAY",
+    "des":""
+},
+{
+    "name":"Payable",
+    "acronym":"PAY",
+    "des":""
+},
+{
+    "name":"Payment",
+    "acronym":"PAY",
+    "des":""
+},
+{
+    "name":"Payroll",
+    "acronym":"PYRL",
+    "des":""
+},
+{
+    "name":"Pedestrian",
+    "acronym":"PED",
+    "des":""
+},
+{
+    "name":"Pell (Pell Grant)",
+    "acronym":"PEL",
+    "des":""
+},
+{
+    "name":"Pending",
+    "acronym":"PEND",
+    "des":""
+},
+{
+    "name":"Pension",
+    "acronym":"PENS",
+    "des":""
+},
+{
+    "name":"Percent*",
+    "acronym":"PCT*",
+    "des":"Part of a whole expressed in hundredths "
+},
+{
+    "name":"Percentage",
+    "acronym":"PCT*",
+    "des":"Part of a whole expressed in hundredths "
+},
+{
+    "name":"Percentile",
+    "acronym":"PCT*",
+    "des":"Part of a whole expressed in hundredths "
+},
+{
+    "name":"Period*",
+    "acronym":"PD*",
+    "des":""
+},
+{
+    "name":"Period-to-Date*",
+    "acronym":"PTD*",
+    "des":""
+},
+{
+    "name":"Perkins Loan",
+    "acronym":"NSLDS",
+    "des":"Common name for National Student Loan Direct System "
+},
+{
+    "name":"Permanent",
+    "acronym":"PERM",
+    "des":""
+},
+{
+    "name":"Permit",
+    "acronym":"PRMT",
+    "des":""
+},
+{
+    "name":"Person",
+    "acronym":"PERS",
+    "des":""
+},
+{
+    "name":"Personal",
+    "acronym":"PSNL",
+    "des":""
+},
+{
+    "name":"Personnel",
+    "acronym":"PSNL",
+    "des":""
+},
+{
+    "name":"Personal Identification",
+    "acronym":"PIN",
+    "des":""
+},
+{
+    "name":"Personnel Action Notification",
+    "acronym":"PAN",
+    "des":""
+},
+{
+    "name":"Phone",
+    "acronym":"PHN",
+    "des":""
+},
+{
+    "name":"Physics",
+    "acronym":"PHYS",
+    "des":""
+},
+{
+    "name":"Place",
+    "acronym":"PLCE",
+    "des":""
+},
+{
+    "name":"Plan",
+    "acronym":"PLN",
+    "des":""
+},
+{
+    "name":"Plate",
+    "acronym":"PLTE",
+    "des":""
+},
+{
+    "name":"Pledge",
+    "acronym":"PLDG",
+    "des":""
+},
+{
+    "name":"PM",
+    "acronym":"PM",
+    "des":"'PostMeridiem' (afternoon) "
+},
+{
+    "name":"Point",
+    "acronym":"PNT",
+    "des":""
+},
+{
+    "name":"Policy",
+    "acronym":"PLCY",
+    "des":""
+},
+{
+    "name":"Position*",
+    "acronym":"POSN*",
+    "des":""
+},
+{
+    "name":"Post",
+    "acronym":"POST",
+    "des":""
+},
+{
+    "name":"Posted",
+    "acronym":"POST",
+    "des":""
+},
+{
+    "name":"Postal",
+    "acronym":"PSTL",
+    "des":""
+},
+{
+    "name":"Potential",
+    "acronym":"POTN",
+    "des":""
+},
+{
+    "name":"Predicted",
+    "acronym":"PRED",
+    "des":""
+},
+{
+    "name":"Preference",
+    "acronym":"PREF",
+    "des":""
+},
+{
+    "name":"Preferred",
+    "acronym":"PREF",
+    "des":""
+},
+{
+    "name":"Prefix",
+    "acronym":"PRFX",
+    "des":""
+},
+{
+    "name":"Premium",
+    "acronym":"PREM",
+    "des":""
+},
+{
+    "name":"Prerequisite",
+    "acronym":"PREQ",
+    "des":""
+},
+{
+    "name":"Prescribed",
+    "acronym":"PSCR",
+    "des":""
+},
+{
+    "name":"Presentation",
+    "acronym":"PRST",
+    "des":""
+},
+{
+    "name":"President",
+    "acronym":"PRES",
+    "des":""
+},
+{
+    "name":"Previous",
+    "acronym":"PREV",
+    "des":""
+},
+{
+    "name":"Prior",
+    "acronym":"PREV",
+    "des":""
+},
+{
+    "name":"Price",
+    "acronym":"PRC",
+    "des":""
+},
+{
+    "name":"Price Level",
+    "acronym":"PL",
+    "des":""
+},
+{
+    "name":"Primary",
+    "acronym":"PRIM",
+    "des":""
+},
+{
+    "name":"Primary Key",
+    "acronym":"PK",
+    "des":""
+},
+{
+    "name":"Principal",
+    "acronym":"PRIN",
+    "des":""
+},
+{
+    "name":"Principle",
+    "acronym":"PRIN",
+    "des":""
+},
+{
+    "name":"Principal Investigator",
+    "acronym":"PI",
+    "des":""
+},
+{
+    "name":"Print",
+    "acronym":"PRN",
+    "des":""
+},
+{
+    "name":"Printed",
+    "acronym":"PRN",
+    "des":""
+},
+{
+    "name":"Prior",
+    "acronym":"PREV",
+    "des":""
+},
+{
+    "name":"Previous",
+    "acronym":"PREV",
+    "des":""
+},
+{
+    "name":"Priority",
+    "acronym":"PRTY",
+    "des":""
+},
+{
+    "name":"Parity",
+    "acronym":"PRTY",
+    "des":""
+},
+{
+    "name":"Probation",
+    "acronym":"PROB",
+    "des":""
+},
+{
+    "name":"Problem",
+    "acronym":"PROB",
+    "des":""
+},
+{
+    "name":"Procedure",
+    "acronym":"PROC",
+    "des":""
+},
+{
+    "name":"Process",
+    "acronym":"PROC",
+    "des":""
+},
+{
+    "name":"Profession",
+    "acronym":"PRFS",
+    "des":""
+},
+{
+    "name":"Professional",
+    "acronym":"PRFS",
+    "des":""
+},
+{
+    "name":"Proficiency",
+    "acronym":"PRFC",
+    "des":""
+},
+{
+    "name":"Profile*",
+    "acronym":"PROF*",
+    "des":""
+},
+{
+    "name":"Program",
+    "acronym":"PROG",
+    "des":""
+},
+{
+    "name":"Project",
+    "acronym":"PROJ",
+    "des":""
+},
+{
+    "name":"Projected",
+    "acronym":"PROJ",
+    "des":""
+},
+{
+    "name":"Promissory",
+    "acronym":"PRMS",
+    "des":""
+},
+{
+    "name":"Promotion",
+    "acronym":"PROM",
+    "des":""
+},
+{
+    "name":"Proposal",
+    "acronym":"PRPS",
+    "des":""
+},
+{
+    "name":"Prospect",
+    "acronym":"PRSP",
+    "des":""
+},
+{
+    "name":"Province",
+    "acronym":"PRVN",
+    "des":""
+},
+{
+    "name":"Purchase",
+    "acronym":"PUR",
+    "des":""
+},
+{
+    "name":"Purchase Order",
+    "acronym":"PO",
+    "des":""
+},
+{
+    "name":"Purge",
+    "acronym":"PRG",
+    "des":""
+},
+{
+    "name":"Purpose",
+    "acronym":"PURP",
+    "des":""
+},
+{
+    "name":"Qualitative",
+    "acronym":"QAL",
+    "des":""
+},
+{
+    "name":"Quality",
+    "acronym":"QAL",
+    "des":""
+},
+{
+    "name":"Quantitative",
+    "acronym":"QTY*",
+    "des":"A number of things other than money "
+},
+{
+    "name":"Quantity*",
+    "acronym":"QTY*",
+    "des":"A number of things other than money "
+},
+{
+    "name":"Quantity-to-Date",
+    "acronym":"QTD*",
+    "des":""
+},
+{
+    "name":"Quarter-to-Date*",
+    "acronym":"QTD*",
+    "des":""
+},
+{
+    "name":"Quarter",
+    "acronym":"QTR",
+    "des":""
+},
+{
+    "name":"Question",
+    "acronym":"QSTN",
+    "des":""
+},
+{
+    "name":"Race",
+    "acronym":"RACE",
+    "des":""
+},
+{
+    "name":"Range",
+    "acronym":"RNG",
+    "des":""
+},
+{
+    "name":"Rank",
+    "acronym":"RNK",
+    "des":"Relative standing or position "
+},
+{
+    "name":"Rate*",
+    "acronym":"RT*",
+    "des":"Numeric value expressing amount per some unit of coverage "
+},
+{
+    "name":"Read",
+    "acronym":"READ",
+    "des":""
+},
+{
+    "name":"Reading",
+    "acronym":"READ",
+    "des":""
+},
+{
+    "name":"Real",
+    "acronym":"REAL",
+    "des":""
+},
+{
+    "name":"Reallocation",
+    "acronym":"REAL",
+    "des":""
+},
+{
+    "name":"Reason*",
+    "acronym":"RSN*",
+    "des":""
+},
+{
+    "name":"Recall",
+    "acronym":"RCL",
+    "des":""
+},
+{
+    "name":"Receipt",
+    "acronym":"RCPT",
+    "des":""
+},
+{
+    "name":"Receive",
+    "acronym":"RECV*",
+    "des":""
+},
+{
+    "name":"Received*",
+    "acronym":"RECV*",
+    "des":""
+},
+{
+    "name":"Receiver",
+    "acronym":"RCVR",
+    "des":""
+},
+{
+    "name":"Recharge",
+    "acronym":"RCHG",
+    "des":""
+},
+{
+    "name":"Recognition",
+    "acronym":"RECG",
+    "des":""
+},
+{
+    "name":"Recognize",
+    "acronym":"RECG",
+    "des":""
+},
+{
+    "name":"Recommend",
+    "acronym":"RCMD",
+    "des":""
+},
+{
+    "name":"Reconciliation*",
+    "acronym":"RECON*",
+    "des":""
+},
+{
+    "name":"Record*",
+    "acronym":"REC*",
+    "des":""
+},
+{
+    "name":"Recreate",
+    "acronym":"RECR",
+    "des":""
+},
+{
+    "name":"Recreation",
+    "acronym":"RECR",
+    "des":""
+},
+{
+    "name":"Recruit",
+    "acronym":"RCRT",
+    "des":""
+},
+{
+    "name":"Recruiting",
+    "acronym":"RCRT",
+    "des":""
+},
+{
+    "name":"Reduce",
+    "acronym":"RED*",
+    "des":""
+},
+{
+    "name":"Reduced",
+    "acronym":"RED*",
+    "des":""
+},
+{
+    "name":"Reduction*",
+    "acronym":"RED*",
+    "des":""
+},
+{
+    "name":"Refer",
+    "acronym":"REF*",
+    "des":""
+},
+{
+    "name":"Reference*",
+    "acronym":"REF*",
+    "des":""
+},
+{
+    "name":"Referral",
+    "acronym":"REF*",
+    "des":""
+},
+{
+    "name":"Referred",
+    "acronym":"REF*",
+    "des":""
+},
+{
+    "name":"Refund",
+    "acronym":"RFND",
+    "des":""
+},
+{
+    "name":"Regional",
+    "acronym":"RGNL",
+    "des":""
+},
+{
+    "name":"Registrar",
+    "acronym":"REGR",
+    "des":""
+},
+{
+    "name":"Registration",
+    "acronym":"REG",
+    "des":""
+},
+{
+    "name":"Reject",
+    "acronym":"RJCT",
+    "des":""
+},
+{
+    "name":"Rejection",
+    "acronym":"RJCT",
+    "des":""
+},
+{
+    "name":"Relate",
+    "acronym":"RLAT",
+    "des":""
+},
+{
+    "name":"Relation",
+    "acronym":"RLAT",
+    "des":""
+},
+{
+    "name":"Relationship",
+    "acronym":"RLAT",
+    "des":""
+},
+{
+    "name":"Release",
+    "acronym":"RLSE",
+    "des":""
+},
+{
+    "name":"Religion",
+    "acronym":"RELG",
+    "des":""
+},
+{
+    "name":"Religious",
+    "acronym":"RELG",
+    "des":""
+},
+{
+    "name":"Remaining",
+    "acronym":"RMNG",
+    "des":""
+},
+{
+    "name":"Reminder",
+    "acronym":"RMDR",
+    "des":""
+},
+{
+    "name":"Renewal",
+    "acronym":"RNWL",
+    "des":""
+},
+{
+    "name":"Repeat",
+    "acronym":"REPT",
+    "des":""
+},
+{
+    "name":"Repeatable",
+    "acronym":"REPT",
+    "des":""
+},
+{
+    "name":"Repeated",
+    "acronym":"REPT",
+    "des":""
+},
+{
+    "name":"Replace",
+    "acronym":"REPL",
+    "des":""
+},
+{
+    "name":"Replaced",
+    "acronym":"REPL",
+    "des":""
+},
+{
+    "name":"Reply",
+    "acronym":"RPLY",
+    "des":""
+},
+{
+    "name":"Report*",
+    "acronym":"RPT*",
+    "des":""
+},
+{
+    "name":"Request*",
+    "acronym":"REQ*",
+    "des":""
+},
+{
+    "name":"Requested",
+    "acronym":"REQ*",
+    "des":""
+},
+{
+    "name":"Require",
+    "acronym":"REQ*",
+    "des":""
+},
+{
+    "name":"Required*",
+    "acronym":"REQ*",
+    "des":""
+},
+{
+    "name":"Requisition*",
+    "acronym":"REQ*",
+    "des":""
+},
+{
+    "name":"Requirements*",
+    "acronym":"RQMT*",
+    "des":""
+},
+{
+    "name":"Research",
+    "acronym":"RES",
+    "des":""
+},
+{
+    "name":"Reserve",
+    "acronym":"RSRV",
+    "des":""
+},
+{
+    "name":"Reserved",
+    "acronym":"RSRV",
+    "des":""
+},
+{
+    "name":"Reserve Officers Training Corps",
+    "acronym":"ROTC",
+    "des":""
+},
+{
+    "name":"Residence",
+    "acronym":"RSDT",
+    "des":""
+},
+{
+    "name":"Residency",
+    "acronym":"RSDT",
+    "des":""
+},
+{
+    "name":"Resident",
+    "acronym":"RSDT",
+    "des":""
+},
+{
+    "name":"Resign",
+    "acronym":"RSGN",
+    "des":""
+},
+{
+    "name":"Resource",
+    "acronym":"RSRC",
+    "des":""
+},
+{
+    "name":"Response",
+    "acronym":"RESP",
+    "des":""
+},
+{
+    "name":"Restart",
+    "acronym":"RST",
+    "des":""
+},
+{
+    "name":"Restock",
+    "acronym":"RSTK",
+    "des":""
+},
+{
+    "name":"Restrict",
+    "acronym":"RSTR",
+    "des":""
+},
+{
+    "name":"Restricted",
+    "acronym":"RSTR",
+    "des":""
+},
+{
+    "name":"Restrictions",
+    "acronym":"RSTR",
+    "des":""
+},
+{
+    "name":"Result",
+    "acronym":"RSLT",
+    "des":""
+},
+{
+    "name":"Retire*",
+    "acronym":"RET*",
+    "des":""
+},
+{
+    "name":"Retirement*",
+    "acronym":"RET*",
+    "des":""
+},
+{
+    "name":"Retroactive",
+    "acronym":"RETR",
+    "des":""
+},
+{
+    "name":"Return",
+    "acronym":"RTN",
+    "des":""
+},
+{
+    "name":"Revenue",
+    "acronym":"REV",
+    "des":""
+},
+{
+    "name":"Review",
+    "acronym":"RVW",
+    "des":""
+},
+{
+    "name":"Revision",
+    "acronym":"REVS",
+    "des":""
+},
+{
+    "name":"Revoke",
+    "acronym":"REVK",
+    "des":""
+},
+{
+    "name":"Roll",
+    "acronym":"RL",
+    "des":""
+},
+{
+    "name":"Roll up",
+    "acronym":"RLUP",
+    "des":""
+},
+{
+    "name":"Room",
+    "acronym":"RM",
+    "des":""
+},
+{
+    "name":"Route",
+    "acronym":"ROUT",
+    "des":""
+},
+{
+    "name":"Row",
+    "acronym":"ROW",
+    "des":""
+},
+{
+    "name":"RSVP",
+    "acronym":"RSVP",
+    "des":"French abbreviation meaning 'pleasereply' "
+},
+{
+    "name":"Run",
+    "acronym":"RUN",
+    "des":""
+},
+{
+    "name":"Run Control",
+    "acronym":"RUNCTL",
+    "des":""
+},
+{
+    "name":"Salary*",
+    "acronym":"SAL*",
+    "des":""
+},
+{
+    "name":"Sale",
+    "acronym":"SALE",
+    "des":""
+},
+{
+    "name":"Salutation",
+    "acronym":"SLTN",
+    "des":""
+},
+{
+    "name":"Same",
+    "acronym":"SM",
+    "des":""
+},
+{
+    "name":"Save",
+    "acronym":"SAVE",
+    "des":""
+},
+{
+    "name":"Scale",
+    "acronym":"SCAL",
+    "des":""
+},
+{
+    "name":"Schedule*",
+    "acronym":"SCHED*",
+    "des":""
+},
+{
+    "name":"Scheduled",
+    "acronym":"SCHED*",
+    "des":""
+},
+{
+    "name":"Scheduling",
+    "acronym":"SCHED*",
+    "des":""
+},
+{
+    "name":"Scholar",
+    "acronym":"SCHLR",
+    "des":""
+},
+{
+    "name":"Scholarship",
+    "acronym":"SCHLR",
+    "des":""
+},
+{
+    "name":"Scholastic",
+    "acronym":"SCHL",
+    "des":""
+},
+{
+    "name":"School",
+    "acronym":"SCHL",
+    "des":""
+},
+{
+    "name":"Scholastic Aptitude Test",
+    "acronym":"SAT",
+    "des":""
+},
+{
+    "name":"Science",
+    "acronym":"SCI",
+    "des":""
+},
+{
+    "name":"Score",
+    "acronym":"SCR",
+    "des":"A number that expresses merit or performance "
+},
+{
+    "name":"Screen",
+    "acronym":"SCRN",
+    "des":""
+},
+{
+    "name":"Search",
+    "acronym":"SRCH",
+    "des":""
+},
+{
+    "name":"Second",
+    "acronym":"SCND",
+    "des":"Use 'SCND' for field names relating to number two in a countable series Use 'SS' for field names relating to a duration of time expressed in seconds "
+},
+{
+    "name":"Section",
+    "acronym":"SCTN",
+    "des":""
+},
+{
+    "name":"Secure",
+    "acronym":"SEC*",
+    "des":""
+},
+{
+    "name":"Security*",
+    "acronym":"SEC*",
+    "des":""
+},
+{
+    "name":"Segment",
+    "acronym":"SEG",
+    "des":""
+},
+{
+    "name":"Select*",
+    "acronym":"SEL*",
+    "des":""
+},
+{
+    "name":"Selection",
+    "acronym":"SEL*",
+    "des":""
+},
+{
+    "name":"Selective",
+    "acronym":"SEL*",
+    "des":""
+},
+{
+    "name":"Semester",
+    "acronym":"SEM",
+    "des":""
+},
+{
+    "name":"Semi Finalist",
+    "acronym":"SEMF",
+    "des":""
+},
+{
+    "name":"Senate",
+    "acronym":"SEN",
+    "des":""
+},
+{
+    "name":"Senator",
+    "acronym":"SEN",
+    "des":""
+},
+{
+    "name":"Send",
+    "acronym":"SND",
+    "des":""
+},
+{
+    "name":"Senior",
+    "acronym":"SR",
+    "des":""
+},
+{
+    "name":"Sent",
+    "acronym":"SNT",
+    "des":""
+},
+{
+    "name":"Separate",
+    "acronym":"SEPR",
+    "des":""
+},
+{
+    "name":"Sequence*",
+    "acronym":"SEQ*",
+    "des":""
+},
+{
+    "name":"Serial",
+    "acronym":"SERL",
+    "des":""
+},
+{
+    "name":"Service",
+    "acronym":"SERV",
+    "des":""
+},
+{
+    "name":"Session*",
+    "acronym":"SESSN*",
+    "des":""
+},
+{
+    "name":"Sex",
+    "acronym":"SEX",
+    "des":""
+},
+{
+    "name":"Sharing",
+    "acronym":"SHR",
+    "des":""
+},
+{
+    "name":"Sheet",
+    "acronym":"SHET",
+    "des":""
+},
+{
+    "name":"Shelter",
+    "acronym":"SHLT",
+    "des":""
+},
+{
+    "name":"Shift",
+    "acronym":"SHFT",
+    "des":""
+},
+{
+    "name":"Shipping",
+    "acronym":"SHIP",
+    "des":""
+},
+{
+    "name":"Short",
+    "acronym":"SHRT",
+    "des":""
+},
+{
+    "name":"Sign",
+    "acronym":"SGN",
+    "des":""
+},
+{
+    "name":"Simulated",
+    "acronym":"SIM",
+    "des":""
+},
+{
+    "name":"Site",
+    "acronym":"SITE",
+    "des":""
+},
+{
+    "name":"Size",
+    "acronym":"SZ",
+    "des":""
+},
+{
+    "name":"Skill",
+    "acronym":"SKL",
+    "des":""
+},
+{
+    "name":"Skip",
+    "acronym":"SKP",
+    "des":""
+},
+{
+    "name":"Social",
+    "acronym":"SOC",
+    "des":""
+},
+{
+    "name":"Society",
+    "acronym":"SOC",
+    "des":""
+},
+{
+    "name":"Social Security Number",
+    "acronym":"SSN",
+    "des":""
+},
+{
+    "name":"Soft",
+    "acronym":"SFT",
+    "des":""
+},
+{
+    "name":"Solid",
+    "acronym":"SLID",
+    "des":""
+},
+{
+    "name":"Sophomore",
+    "acronym":"SOPH",
+    "des":""
+},
+{
+    "name":"Sort",
+    "acronym":"SRT",
+    "des":""
+},
+{
+    "name":"Source",
+    "acronym":"SRC",
+    "des":""
+},
+{
+    "name":"Special",
+    "acronym":"SPCL",
+    "des":""
+},
+{
+    "name":"Specialty",
+    "acronym":"SPCL",
+    "des":""
+},
+{
+    "name":"Specific",
+    "acronym":"SPEC",
+    "des":""
+},
+{
+    "name":"Specification",
+    "acronym":"SPEC",
+    "des":""
+},
+{
+    "name":"Sponsor",
+    "acronym":"SPON",
+    "des":""
+},
+{
+    "name":"Sponsored",
+    "acronym":"SPON",
+    "des":""
+},
+{
+    "name":"Sports",
+    "acronym":"SPRT",
+    "des":""
+},
+{
+    "name":"Spouse",
+    "acronym":"SPSE",
+    "des":""
+},
+{
+    "name":"Square",
+    "acronym":"SQ",
+    "des":""
+},
+{
+    "name":"Stack",
+    "acronym":"STCK",
+    "des":""
+},
+{
+    "name":"Staff",
+    "acronym":"STF",
+    "des":""
+},
+{
+    "name":"Stage",
+    "acronym":"STG",
+    "des":""
+},
+{
+    "name":"Stamp",
+    "acronym":"STMP",
+    "des":""
+},
+{
+    "name":"Standard",
+    "acronym":"STD",
+    "des":""
+},
+{
+    "name":"Standard Deviation",
+    "acronym":"STDV",
+    "des":""
+},
+{
+    "name":"Start",
+    "acronym":"STRT",
+    "des":""
+},
+{
+    "name":"Starting",
+    "acronym":"STRT",
+    "des":""
+},
+{
+    "name":"State",
+    "acronym":"ST",
+    "des":""
+},
+{
+    "name":"Statement",
+    "acronym":"STMT",
+    "des":""
+},
+{
+    "name":"Static",
+    "acronym":"STC",
+    "des":""
+},
+{
+    "name":"Statistics*",
+    "acronym":"STAT*",
+    "des":""
+},
+{
+    "name":"Status",
+    "acronym":"STS",
+    "des":""
+},
+{
+    "name":"Step",
+    "acronym":"STP",
+    "des":""
+},
+{
+    "name":"Stipend",
+    "acronym":"STPD",
+    "des":""
+},
+{
+    "name":"Stock",
+    "acronym":"STK",
+    "des":""
+},
+{
+    "name":"Stop",
+    "acronym":"STOP",
+    "des":""
+},
+{
+    "name":"Street",
+    "acronym":"STR",
+    "des":""
+},
+{
+    "name":"String",
+    "acronym":"STRG",
+    "des":""
+},
+{
+    "name":"Structure",
+    "acronym":"STRC",
+    "des":""
+},
+{
+    "name":"Student",
+    "acronym":"STU",
+    "des":""
+},
+{
+    "name":"Student Academic Records",
+    "acronym":"SAR",
+    "des":""
+},
+{
+    "name":"Student Credit Hour",
+    "acronym":"SCH",
+    "des":""
+},
+{
+    "name":"Study",
+    "acronym":"STDY",
+    "des":""
+},
+{
+    "name":"Subcampaign",
+    "acronym":"SCMP",
+    "des":""
+},
+{
+    "name":"Subject",
+    "acronym":"SUBJ",
+    "des":""
+},
+{
+    "name":"Subordinate",
+    "acronym":"SUB",
+    "des":""
+},
+{
+    "name":"Subsidiary",
+    "acronym":"SUBS",
+    "des":""
+},
+{
+    "name":"Suffix",
+    "acronym":"SFX",
+    "des":""
+},
+{
+    "name":"Summation",
+    "acronym":"SUM*",
+    "des":""
+},
+{
+    "name":"Summary*",
+    "acronym":"SUM*",
+    "des":""
+},
+{
+    "name":"Supervisor*",
+    "acronym":"SUP*",
+    "des":""
+},
+{
+    "name":"Support",
+    "acronym":"SUP*",
+    "des":""
+},
+{
+    "name":"Supplement",
+    "acronym":"SUPL*",
+    "des":""
+},
+{
+    "name":"Supplemental*",
+    "acronym":"SUPL*",
+    "des":""
+},
+{
+    "name":"Survey",
+    "acronym":"SRVY",
+    "des":""
+},
+{
+    "name":"Suspense",
+    "acronym":"SUSP",
+    "des":""
+},
+{
+    "name":"Switch",
+    "acronym":"FLG",
+    "des":"Data which functions as a flag or indicator. Used with only two possible states/conditions. Data should normally be 'Y' or 'N'."
+},
+{
+    "name":"System",
+    "acronym":"SYS",
+    "des":""
+},
+{
+    "name":"Table",
+    "acronym":"TBL",
+    "des":""
+},
+{
+    "name":"Tables",
+    "acronym":"TBL",
+    "des":""
+},
+{
+    "name":"Taken",
+    "acronym":"TKN",
+    "des":""
+},
+{
+    "name":"Tape",
+    "acronym":"TAPE",
+    "des":""
+},
+{
+    "name":"Target",
+    "acronym":"TRGT",
+    "des":""
+},
+{
+    "name":"Taught",
+    "acronym":"TGHT",
+    "des":""
+},
+{
+    "name":"Tax",
+    "acronym":"TX",
+    "des":""
+},
+{
+    "name":"Taxable",
+    "acronym":"TX",
+    "des":""
+},
+{
+    "name":"Tax ID Number",
+    "acronym":"TIN",
+    "des":""
+},
+{
+    "name":"Team",
+    "acronym":"TEAM",
+    "des":""
+},
+{
+    "name":"Temperature",
+    "acronym":"TEMP",
+    "des":""
+},
+{
+    "name":"Template*",
+    "acronym":"TMPL*",
+    "des":""
+},
+{
+    "name":"Temporary",
+    "acronym":"TMP",
+    "des":""
+},
+{
+    "name":"Tenure",
+    "acronym":"TENR",
+    "des":""
+},
+{
+    "name":"Term",
+    "acronym":"TRM",
+    "des":""
+},
+{
+    "name":"Terminal",
+    "acronym":"TRML",
+    "des":""
+},
+{
+    "name":"Terminate",
+    "acronym":"TRMT",
+    "des":""
+},
+{
+    "name":"Test",
+    "acronym":"TST",
+    "des":""
+},
+{
+    "name":"Text",
+    "acronym":"TXT",
+    "des":"Narrative informational data such as a message or error text "
+},
+{
+    "name":"Thermidor",
+    "acronym":"THERM",
+    "des":"13th Month "
+},
+{
+    "name":"TIAA",
+    "acronym":"TIAA",
+    "des":""
+},
+{
+    "name":"Ticket",
+    "acronym":"TKT",
+    "des":""
+},
+{
+    "name":"Time",
+    "acronym":"TM",
+    "des":"Hours and minutes. May include seconds, hundredths of seconds. "
+},
+{
+    "name":"Time keeping",
+    "acronym":"TMKP",
+    "des":""
+},
+{
+    "name":"Time-stamp",
+    "acronym":"TS",
+    "des":"A system generated Time-stamp "
+},
+{
+    "name":"Title",
+    "acronym":"TITL",
+    "des":""
+},
+{
+    "name":"Today",
+    "acronym":"TDY",
+    "des":""
+},
+{
+    "name":"Total*",
+    "acronym":"TOT*",
+    "des":""
+},
+{
+    "name":"Tour",
+    "acronym":"TOUR",
+    "des":""
+},
+{
+    "name":"Town",
+    "acronym":"CTY",
+    "des":""
+},
+{
+    "name":"Track",
+    "acronym":"TRK",
+    "des":""
+},
+{
+    "name":"Tracking",
+    "acronym":"TRK",
+    "des":""
+},
+{
+    "name":"Traditional",
+    "acronym":"TRAD",
+    "des":""
+},
+{
+    "name":"Training*",
+    "acronym":"TRN*",
+    "des":""
+},
+{
+    "name":"Transact",
+    "acronym":"TRANS*",
+    "des":""
+},
+{
+    "name":"Transaction*",
+    "acronym":"TRANS*",
+    "des":""
+},
+{
+    "name":"Transcript",
+    "acronym":"TSCP",
+    "des":""
+},
+{
+    "name":"Transfer*",
+    "acronym":"XFER*",
+    "des":""
+},
+{
+    "name":"Translate",
+    "acronym":"XLT",
+    "des":"Meaning 'CrosswalkTable' "
+},
+{
+    "name":"Translation",
+    "acronym":"XLT",
+    "des":"Meaning 'CrosswalkTable' "
+},
+{
+    "name":"Transmit",
+    "acronym":"XMIT",
+    "des":""
+},
+{
+    "name":"Transmittal",
+    "acronym":"XMIT",
+    "des":""
+},
+{
+    "name":"Travel",
+    "acronym":"TRVL",
+    "des":""
+},
+{
+    "name":"Tuition*",
+    "acronym":"TUIT*",
+    "des":""
+},
+{
+    "name":"Type",
+    "acronym":"TYP",
+    "des":""
+},
+{
+    "name":"Undergraduate",
+    "acronym":"UGRD",
+    "des":""
+},
+{
+    "name":"Unemployment",
+    "acronym":"UNEMPL",
+    "des":""
+},
+{
+    "name":"Unit",
+    "acronym":"UNIT",
+    "des":""
+},
+{
+    "name":"Unit of Measure*",
+    "acronym":"UOM*",
+    "des":""
+},
+{
+    "name":"Universal",
+    "acronym":"UNVRSL",
+    "des":""
+},
+{
+    "name":"University",
+    "acronym":"UNIV",
+    "des":""
+},
+{
+    "name":"Unpaid",
+    "acronym":"UNPD",
+    "des":""
+},
+{
+    "name":"Unsecure",
+    "acronym":"UNSEC",
+    "des":""
+},
+{
+    "name":"Unsecured",
+    "acronym":"UNSEC",
+    "des":""
+},
+{
+    "name":"Up To",
+    "acronym":"MAX",
+    "des":""
+},
+{
+    "name":"Update",
+    "acronym":"UPDT",
+    "des":""
+},
+{
+    "name":"Updated",
+    "acronym":"UPDT",
+    "des":""
+},
+{
+    "name":"Upper",
+    "acronym":"UPR",
+    "des":""
+},
+{
+    "name":"US Department of Education",
+    "acronym":"USDE",
+    "des":""
+},
+{
+    "name":"Use",
+    "acronym":"USE",
+    "des":""
+},
+{
+    "name":"Used",
+    "acronym":"USE",
+    "des":""
+},
+{
+    "name":"User",
+    "acronym":"USR",
+    "des":""
+},
+{
+    "name":"Vacation*",
+    "acronym":"VACN*",
+    "des":""
+},
+{
+    "name":"Valedictorian",
+    "acronym":"VLDC",
+    "des":""
+},
+{
+    "name":"Valid",
+    "acronym":"VLD",
+    "des":""
+},
+{
+    "name":"Validate",
+    "acronym":"VLD",
+    "des":""
+},
+{
+    "name":"Validation",
+    "acronym":"VLD",
+    "des":""
+},
+{
+    "name":"Value",
+    "acronym":"VAL",
+    "des":""
+},
+{
+    "name":"Variable",
+    "acronym":"VAR",
+    "des":""
+},
+{
+    "name":"Vehicle*",
+    "acronym":"VEH*",
+    "des":""
+},
+{
+    "name":"Vendor",
+    "acronym":"VEND",
+    "des":""
+},
+{
+    "name":"Verbal",
+    "acronym":"VRBL",
+    "des":""
+},
+{
+    "name":"Verify",
+    "acronym":"VERF",
+    "des":""
+},
+{
+    "name":"Verified",
+    "acronym":"VERF",
+    "des":""
+},
+{
+    "name":"Veteran",
+    "acronym":"VET",
+    "des":""
+},
+{
+    "name":"Vice President",
+    "acronym":"VP",
+    "des":""
+},
+{
+    "name":"Violation",
+    "acronym":"VIO",
+    "des":""
+},
+{
+    "name":"Visa",
+    "acronym":"VISA",
+    "des":""
+},
+{
+    "name":"Visit",
+    "acronym":"VST",
+    "des":""
+},
+{
+    "name":"Voucher",
+    "acronym":"VCHR",
+    "des":""
+},
+{
+    "name":"W2",
+    "acronym":"W2",
+    "des":""
+},
+{
+    "name":"W4",
+    "acronym":"W4",
+    "des":""
+},
+{
+    "name":"W9",
+    "acronym":"W9",
+    "des":""
+},
+{
+    "name":"Waived",
+    "acronym":"WVED",
+    "des":""
+},
+{
+    "name":"Week",
+    "acronym":"WK",
+    "des":""
+},
+{
+    "name":"Work",
+    "acronym":"WK",
+    "des":""
+},
+{
+    "name":"Worked",
+    "acronym":"WK",
+    "des":""
+},
+{
+    "name":"Worker(s)",
+    "acronym":"WK",
+    "des":""
+},
+{
+    "name":"Width",
+    "acronym":"WID",
+    "des":""
+},
+{
+    "name":"With",
+    "acronym":"W",
+    "des":"Normally used as part of a compound word (i.e., Withdrawl abbreviated as 'WDRL')."
+},
+{
+    "name":"Withdrawal",
+    "acronym":"WDRL",
+    "des":""
+},
+{
+    "name":"Withhold",
+    "acronym":"WHLD",
+    "des":""
+},
+{
+    "name":"Withholding",
+    "acronym":"WHLD",
+    "des":""
+},
+{
+    "name":"Women",
+    "acronym":"WMN",
+    "des":""
+},
+{
+    "name":"Worksheet",
+    "acronym":"WKST",
+    "des":""
+},
+{
+    "name":"Write",
+    "acronym":"WRT",
+    "des":""
+},
+{
+    "name":"Written",
+    "acronym":"WRT",
+    "des":""
+},
+{
+    "name":"Year*",
+    "acronym":"YR*",
+    "des":"A calendar year, including century (e.g., 1997) "
+},
+{
+    "name":"Year-to-Date*",
+    "acronym":"YTD*",
+    "des":""
+},
+{
+    "name":"Zip",
+    "acronym":"ZIP",
+    "des":""
+},
+{
+    "name":"Zone",
+    "acronym":"ZN",
+    "des":"undefined"
+}]}
